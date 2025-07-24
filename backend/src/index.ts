@@ -87,7 +87,6 @@ try {
     repositorioObras.adicionar(new Filme(melhoresFilmes[i].id, melhoresFilmes[i].title, melhoresFilmes[i].overview, melhoresFilmes[i].poster_path, melhoresFilmes[i].vote_average, atoresDesseFilme, await getNomesDosGenerosDaObra('movie', melhoresFilmes[i].id), melhoresFilmes[i].release_date, diretoresDesseFilme));
     repositorioObras.adicionar(new Serie(melhoresSeries[i].id, melhoresSeries[i].name, melhoresSeries[i].overview, melhoresSeries[i].poster_path, melhoresSeries[i].vote_average, atoresDesseSerie, await getNomesDosGenerosDaObra('tv', melhoresSeries[i].id), melhoresSeries[i].first_air_date, numeroEpisodiosETemporadas.number_of_episodes, numeroEpisodiosETemporadas.number_of_seasons));
   }
-  console.log(repositorioObras.listarFilmes());
 } catch (error) {
   console.error(error);
 }
