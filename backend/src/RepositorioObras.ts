@@ -12,7 +12,7 @@ export class RepositorioObras {
     listar(): string {
         return this.obras.map(obra => obra.toString()).join("\n\n");
     }
-
+    
     listarPorGenero(inpGenero: string): string {
         return this.obras.filter(obra => obra.genres.includes(inpGenero)).map(obra => obra.toString()).join("\n\n");
     }
