@@ -1,0 +1,1 @@
+export type tipoObra = 'movie' | 'tv';
