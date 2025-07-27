@@ -1,0 +1,32 @@
+:root {
+    --color-white: #ffffff;
+    --color-black1: #000000;
+    --color-black2: #2c2c2c;
+    --color-red1: #7a0000;
+    --color-red2: #ff4040;
+    --color-green1: #627254;
+    --color-green2:#33392A;
+    --color-bege: #aa9d7c;
+}
+@import url("https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap");
+body {
+  font-family: "Tektur", sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  background-color: var(--color-bege);
+} 
+
+main{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+
+#root{
+  display: flex;
+  flex-direction: column;
+height: 100vh;
+}
