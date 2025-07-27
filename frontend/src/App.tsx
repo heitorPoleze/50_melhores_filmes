@@ -1,7 +1,6 @@
 import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Filmes from './routes/filmes.tsx';
-
 function App() {
 
   return (
