@@ -1,13 +1,13 @@
 import Footer from "../components/Footer/Footer.tsx";
 import Header from "../components/Header/Header.tsx";
-import NavSeries from "../components/NavSeries/NavSeries.tsx";
+import Funcionalidades from "../components/Funcionalidades/Funcionalidades.tsx";
 
 function Series(){
     return(
         <>
         <Header/>
         <main>
-        <NavSeries/>
+        <Funcionalidades nomePagina="Séries"/>
         </main>
         <Footer/>
         </>
