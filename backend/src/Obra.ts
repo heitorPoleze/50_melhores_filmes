@@ -15,7 +15,7 @@ export class Obra {
         this._name = name;
         this._overview = overview;
         this._genres = genres;
-        this._imgLink = imgLink;
+        this._imgLink = "https://image.tmdb.org/t/p/w500" + imgLink;
         this._nota = Number(nota.toFixed(2));
         this._atores = atores;
         this._release_date = release_date;
@@ -56,5 +56,17 @@ export class Obra {
     }
     toString(){
         return `Título: ${this._name} (${this.release_dateYear}) \n\n Sinopse: ${this._overview} \n\n Gêneros: ${this._genres} \n\n Pôster: ${this._imgLink} \n\n Nota: ${this._nota} \n\n Atores: ${this.atoresInfo}`;
+    }
+    toJson(): object{
+        return {
+            id: this.id,
+            name: this.name,
+            overview: this.overview,  
+            genres: this.genres,  
+            imgLink: this.imgLink,
+            nota: this.nota,
+            atores: this.atores,
+            release_date: this.release_date
+        }
     }
 }

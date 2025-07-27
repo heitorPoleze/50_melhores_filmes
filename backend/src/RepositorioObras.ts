@@ -8,19 +8,15 @@ export class RepositorioObras {
     adicionar(obra: Obra): void {
         this.obras.push(obra);
     }
-    listarSeries(): string {
-        const lista = this.obras.filter((obra: Obra) => {
+    listarSeries(): object{
+        return this.obras.filter((obra: Obra) => {
           return obra instanceof Serie
-        }).map(obra => obra.toString()).join("\n\n");
-
-        return "SÉRIES \n\n" + lista;
+        }).map(obra => obra.toJson());
     }
-    listarFilmes(): string{
-       const lista = this.obras.filter((obra: Obra) => {
+    listarFilmes(): object{
+       return this.obras.filter((obra: Obra) => {
             return obra instanceof Filme
-        }).map(obra => obra.toString()).join("\n\n");   
-
-        return "FILMES \n\n" + lista;
+        }).map(obra => obra.toJson());   
     }
     buscarPorGenero(inpGenero: string | string[]): string {
         if(!Array.isArray(inpGenero)){

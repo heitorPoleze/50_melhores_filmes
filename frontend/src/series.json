@@ -1,0 +1,2543 @@
+[
+  {
+    "id": 1396,
+    "name": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "nota": 8.93,
+    "atores": [
+      {
+        "_name": "Bryan Cranston",
+        "_character": "Walter White"
+      },
+      {
+        "_name": "Aaron Paul",
+        "_character": "Jesse Pinkman"
+      },
+      {
+        "_name": "Anna Gunn",
+        "_character": "Skyler White"
+      },
+      {
+        "_name": "RJ Mitte",
+        "_character": "Walter White Jr."
+      },
+      {
+        "_name": "Dean Norris",
+        "_character": "Hank Schrader"
+      },
+      {
+        "_name": "Betsy Brandt",
+        "_character": "Marie Schrader"
+      },
+      {
+        "_name": "Bob Odenkirk",
+        "_character": "Saul Goodman"
+      },
+      {
+        "_name": "Jonathan Banks",
+        "_character": "Mike Ehrmantraut"
+      }
+    ],
+    "release_date": "2008-01-20",
+    "number_of_episodes": 62,
+    "number_of_seasons": 5
+  },
+  {
+    "id": 209867,
+    "name": "Frieren: Beyond Journey's End",
+    "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+    "nota": 8.78,
+    "atores": [
+      {
+        "_name": "Atsumi Tanezaki",
+        "_character": "Frieren (voice)"
+      },
+      {
+        "_name": "Kana Ichinose",
+        "_character": "Fern (voice)"
+      },
+      {
+        "_name": "Chiaki Kobayashi",
+        "_character": "Stark (voice)"
+      },
+      {
+        "_name": "Nobuhiko Okamoto",
+        "_character": "Himmel (voice)"
+      },
+      {
+        "_name": "Hiroki Touchi",
+        "_character": "Heiter (voice)"
+      },
+      {
+        "_name": "Yoji Ueda",
+        "_character": "Eisen (voice)"
+      }
+    ],
+    "release_date": "2023-09-29",
+    "number_of_episodes": 28,
+    "number_of_seasons": 2
+  },
+  {
+    "id": 219246,
+    "name": "When Life Gives You Tangerines",
+    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "genres": [
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/q29q6AByug53pnylCytwLA7m6AY.jpg",
+    "nota": 8.77,
+    "atores": [
+      {
+        "_name": "IU",
+        "_character": "Oh Ae-sun / Yang Geum-myeong"
+      },
+      {
+        "_name": "Park Bo-gum",
+        "_character": "Yang Gwan-sik"
+      },
+      {
+        "_name": "Moon So-ri",
+        "_character": "Middle-aged Oh Ae-sun"
+      },
+      {
+        "_name": "Park Hae-joon",
+        "_character": "Middle-aged Yang Gwan-sik"
+      },
+      {
+        "_name": "Yeom Hye-ran",
+        "_character": "Jeon Gwang-Rye"
+      },
+      {
+        "_name": "Kim Tae-yeon",
+        "_character": "Young Ae-soon"
+      },
+      {
+        "_name": "Baek Ji-won",
+        "_character": "Gyeong-Ja"
+      },
+      {
+        "_name": "Choi Dae-hoon",
+        "_character": "Bu Sang-gil"
+      },
+      {
+        "_name": "Oh Min-ae",
+        "_character": "Kwon Kye-ok"
+      },
+      {
+        "_name": "Kim Yong-rim",
+        "_character": "Park Mak-cheon"
+      },
+      {
+        "_name": "Cha Mi-kyeong",
+        "_character": "Choong-su"
+      },
+      {
+        "_name": "Jang Hye-jin",
+        "_character": "Park Young-ran"
+      },
+      {
+        "_name": "Na Moon-hee",
+        "_character": "Kim Chun-ok"
+      },
+      {
+        "_name": "Oh Jung-se",
+        "_character": "Yeom Byeong-Cheol"
+      },
+      {
+        "_name": "Jung Hae-kyun",
+        "_character": "Oh Han-mu"
+      },
+      {
+        "_name": "Lee Jun-young",
+        "_character": "Park Young-beom"
+      },
+      {
+        "_name": "Kang You-seok",
+        "_character": "Yang Eun-myeong"
+      },
+      {
+        "_name": "Kim Seon-ho",
+        "_character": "Park Chung-Seob"
+      },
+      {
+        "_name": "Lee Soo-kyung",
+        "_character": "Bu Hyeon-suk"
+      }
+    ],
+    "release_date": "2025-03-07",
+    "number_of_episodes": 16,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 94605,
+    "name": "Arcane",
+    "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+    "nota": 8.76,
+    "atores": [
+      {
+        "_name": "Hailee Steinfeld",
+        "_character": "Vi (voice)"
+      },
+      {
+        "_name": "Ella Purnell",
+        "_character": "Jinx (voice)"
+      }
+    ],
+    "release_date": "2021-11-06",
+    "number_of_episodes": 18,
+    "number_of_seasons": 2
+  },
+  {
+    "id": 246,
+    "name": "Avatar: The Last Airbender",
+    "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/v2vn1coUMPKw0GI1KGC5J4IXtqp.jpg",
+    "nota": 8.8,
+    "atores": [
+      {
+        "_name": "Zach Tyler Eisen",
+        "_character": "Aang (voice)"
+      },
+      {
+        "_name": "Mae Whitman",
+        "_character": "Katara (voice)"
+      },
+      {
+        "_name": "Jack De Sena",
+        "_character": "Sokka (voice)"
+      },
+      {
+        "_name": "Dante Basco",
+        "_character": "Zuko (voice)"
+      },
+      {
+        "_name": "Jessie Flower",
+        "_character": "Toph Beifong (voice)"
+      },
+      {
+        "_name": "Dee Bradley Baker",
+        "_character": "Appa / Momo (voice)"
+      }
+    ],
+    "release_date": "2005-02-21",
+    "number_of_episodes": 61,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 37854,
+    "name": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Animation"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+    "nota": 8.72,
+    "atores": [
+      {
+        "_name": "Mayumi Tanaka",
+        "_character": "Monkey D. Luffy (voice)"
+      },
+      {
+        "_name": "Kazuya Nakai",
+        "_character": "Roronoa Zoro (voice)"
+      },
+      {
+        "_name": "Akemi Okamura",
+        "_character": "Nami (voice)"
+      },
+      {
+        "_name": "Kappei Yamaguchi",
+        "_character": "Usopp (voice)"
+      },
+      {
+        "_name": "Hiroaki Hirata",
+        "_character": "Sanji (voice)"
+      },
+      {
+        "_name": "Ikue Otani",
+        "_character": "Tony Tony Chopper (voice)"
+      },
+      {
+        "_name": "Yuriko Yamaguchi",
+        "_character": "Nico Robin (voice)"
+      },
+      {
+        "_name": "Kazuki Yao",
+        "_character": "Franky (voice)"
+      },
+      {
+        "_name": "Katsuhisa Houki",
+        "_character": "Jinbe (voice)"
+      },
+      {
+        "_name": "Cho",
+        "_character": "Brook (voice)"
+      },
+      {
+        "_name": "Reiko Takagi",
+        "_character": "Jewelry Bonney (voice)"
+      },
+      {
+        "_name": "Yohei Tadano",
+        "_character": "Dr. Vegapunk (voice)"
+      }
+    ],
+    "release_date": "1999-10-20",
+    "number_of_episodes": 1139,
+    "number_of_seasons": 22
+  },
+  {
+    "id": 60059,
+    "name": "Better Call Saul",
+    "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+    "nota": 8.7,
+    "atores": [
+      {
+        "_name": "Bob Odenkirk",
+        "_character": "Jimmy McGill"
+      },
+      {
+        "_name": "Jonathan Banks",
+        "_character": "Mike Ehrmantraut"
+      },
+      {
+        "_name": "Rhea Seehorn",
+        "_character": "Kim Wexler"
+      },
+      {
+        "_name": "Tony Dalton",
+        "_character": "Lalo Salamanca"
+      },
+      {
+        "_name": "Giancarlo Esposito",
+        "_character": "Gus Fring"
+      }
+    ],
+    "release_date": "2015-02-08",
+    "number_of_episodes": 63,
+    "number_of_seasons": 6
+  },
+  {
+    "id": 31911,
+    "name": "Fullmetal Alchemist: Brotherhood",
+    "overview": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+    "nota": 8.7,
+    "atores": [
+      {
+        "_name": "Romi Park",
+        "_character": "Edward Elric (voice)"
+      },
+      {
+        "_name": "Rie Kugimiya",
+        "_character": "Alphonse Elric (voice)"
+      },
+      {
+        "_name": "Shin-ichiro Miki",
+        "_character": "Roy Mustang (voice)"
+      },
+      {
+        "_name": "Fumiko Orikasa",
+        "_character": "Riza Hawkeye (voice)"
+      },
+      {
+        "_name": "Megumi Takamoto",
+        "_character": "Winry Rockbell (voice)"
+      }
+    ],
+    "release_date": "2009-04-05",
+    "number_of_episodes": 64,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 94954,
+    "name": "Hazbin Hotel",
+    "overview": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+    "nota": 8.7,
+    "atores": [
+      {
+        "_name": "Erika Henningsen",
+        "_character": "Charlie Morningstar (voice)"
+      },
+      {
+        "_name": "Stephanie Beatriz",
+        "_character": "Vaggie (voice)"
+      },
+      {
+        "_name": "Blake Roman",
+        "_character": "Angel Dust (voice)"
+      },
+      {
+        "_name": "Amir Talai",
+        "_character": "Alastor (voice)"
+      },
+      {
+        "_name": "Keith David",
+        "_character": "Husk (voice)"
+      },
+      {
+        "_name": "Kimiko Glenn",
+        "_character": "Niffty (voice)"
+      },
+      {
+        "_name": "Alex Brightman",
+        "_character": "Sir Pentious (voice)"
+      }
+    ],
+    "release_date": "2024-01-18",
+    "number_of_episodes": 9,
+    "number_of_seasons": 2
+  },
+  {
+    "id": 131378,
+    "name": "Adventure Time: Fionna & Cake",
+    "overview": "Fionna and Cake – with the help of the former Ice King, Simon Petrikov - embark on a multiverse-hopping adventure and journey of self-discovery. All the while a powerful new antagonist determined to track them down and erase them from existence, lurks in the shadows.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+    "nota": 8.7,
+    "atores": [
+      {
+        "_name": "Madeleine Martin",
+        "_character": "Fionna Campbell (voice)"
+      },
+      {
+        "_name": "Roz Ryan",
+        "_character": "Cake (voice)"
+      },
+      {
+        "_name": "Tom Kenny",
+        "_character": "Simon Petrikov / Ice King (voice)"
+      }
+    ],
+    "release_date": "2023-08-31",
+    "number_of_episodes": 10,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 87108,
+    "name": "Chernobyl",
+    "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+    "genres": [
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "nota": 8.69,
+    "atores": [
+      {
+        "_name": "Jared Harris",
+        "_character": "Valery Legasov"
+      },
+      {
+        "_name": "Stellan Skarsgård",
+        "_character": "Boris Shcherbina"
+      },
+      {
+        "_name": "Emily Watson",
+        "_character": "Ulana Khomyuk"
+      },
+      {
+        "_name": "Paul Ritter",
+        "_character": "Anatoly Dyatlov"
+      },
+      {
+        "_name": "Jessie Buckley",
+        "_character": "Lyudmilla Ignatenko"
+      },
+      {
+        "_name": "Adam Nagaitis",
+        "_character": "Vasily Ignatenko"
+      },
+      {
+        "_name": "Sam Troughton",
+        "_character": "Alexandr Akimov"
+      },
+      {
+        "_name": "Robert Emms",
+        "_character": "Leonid Toptunov"
+      },
+      {
+        "_name": "Con O'Neill",
+        "_character": "Viktor Bryukhanov"
+      },
+      {
+        "_name": "Adrian Rawlins",
+        "_character": "Nikolai Fomin"
+      },
+      {
+        "_name": "Alan Williams",
+        "_character": "KGB Chairman Charkov"
+      },
+      {
+        "_name": "David Dencik",
+        "_character": "Mikhail Gorbachev"
+      },
+      {
+        "_name": "Mark Lewis Jones",
+        "_character": "General Pikalov"
+      },
+      {
+        "_name": "Ralph Ineson",
+        "_character": "General Tarakanov"
+      },
+      {
+        "_name": "Barry Keoghan",
+        "_character": "Pavel"
+      },
+      {
+        "_name": "Alex Ferns",
+        "_character": "Glukhov"
+      },
+      {
+        "_name": "Fares Fares",
+        "_character": "Bacho"
+      },
+      {
+        "_name": "Michael McElhatton",
+        "_character": "Prosecutor Andrei Stepashin"
+      }
+    ],
+    "release_date": "2019-05-06",
+    "number_of_episodes": 5,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 60625,
+    "name": "Rick and Morty",
+    "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "nota": 8.69,
+    "atores": [
+      {
+        "_name": "Chris Parnell",
+        "_character": "Jerry Smith (voice)"
+      },
+      {
+        "_name": "Spencer Grammer",
+        "_character": "Summer Smith (voice)"
+      },
+      {
+        "_name": "Sarah Chalke",
+        "_character": "Beth Smith (voice)"
+      },
+      {
+        "_name": "Ian Cardoni",
+        "_character": "Rick Sanchez (voice)"
+      },
+      {
+        "_name": "Harry Belden",
+        "_character": "Morty Smith (voice)"
+      }
+    ],
+    "release_date": "2013-12-02",
+    "number_of_episodes": 81,
+    "number_of_seasons": 8
+  },
+  {
+    "id": 220542,
+    "name": "The Apothecary Diaries",
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Mystery"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+    "nota": 8.67,
+    "atores": [
+      {
+        "_name": "Aoi Yuuki",
+        "_character": "Maomao (voice)"
+      },
+      {
+        "_name": "Takeo Otsuka",
+        "_character": "Jinshi (voice)"
+      },
+      {
+        "_name": "Katsuyuki Konishi",
+        "_character": "Gaoshun (voice)"
+      }
+    ],
+    "release_date": "2023-10-22",
+    "number_of_episodes": 48,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 1429,
+    "name": "Attack on Titan",
+    "overview": "Many years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the heroic members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+    "nota": 8.67,
+    "atores": [
+      {
+        "_name": "Yuki Kaji",
+        "_character": "Eren Yeager (voice)"
+      },
+      {
+        "_name": "Yui Ishikawa",
+        "_character": "Mikasa Ackerman (voice)"
+      },
+      {
+        "_name": "Marina Inoue",
+        "_character": "Armin Arlert (voice)"
+      },
+      {
+        "_name": "Kisho Taniyama",
+        "_character": "Jean Kirstein (voice)"
+      },
+      {
+        "_name": "Hiro Shimono",
+        "_character": "Connie Springer (voice)"
+      },
+      {
+        "_name": "Yoshimasa Hosoya",
+        "_character": "Reiner Braun (voice)"
+      },
+      {
+        "_name": "Takehito Koyasu",
+        "_character": "Zeke (voice)"
+      },
+      {
+        "_name": "Ayane Sakura",
+        "_character": "Gabi Braun (voice)"
+      },
+      {
+        "_name": "Natsuki Hanae",
+        "_character": "Falco Grice (voice)"
+      }
+    ],
+    "release_date": "2013-04-07",
+    "number_of_episodes": 87,
+    "number_of_seasons": 4
+  },
+  {
+    "id": 46298,
+    "name": "Hunter x Hunter",
+    "overview": "To fulfill his dreams of becoming a legendary Hunter like his dad, a young boy must pass a rigorous examination and find his missing father.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+    "nota": 8.67,
+    "atores": [
+      {
+        "_name": "Megumi Han",
+        "_character": "Gon (voice)"
+      },
+      {
+        "_name": "Mariya Ise",
+        "_character": "Killua (voice)"
+      },
+      {
+        "_name": "Issei Futamata",
+        "_character": "Narrator (voice)"
+      },
+      {
+        "_name": "Miyuki Sawashiro",
+        "_character": "Kurapika"
+      },
+      {
+        "_name": "Keiji Fujiwara",
+        "_character": "Leorio (voice)"
+      }
+    ],
+    "release_date": "2011-10-02",
+    "number_of_episodes": 148,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 92685,
+    "name": "The Owl House",
+    "overview": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure",
+      "Comedy",
+      "Kids"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/zqjSex7DZn7p4dU7mMktdJ8zQV5.jpg",
+    "nota": 8.67,
+    "atores": [
+      {
+        "_name": "Sarah-Nicole Robles",
+        "_character": "Luz Noceda (voice)"
+      },
+      {
+        "_name": "Alex Hirsch",
+        "_character": "King / Hooty (voice)"
+      },
+      {
+        "_name": "Zeno Robinson",
+        "_character": "Hunter (voice)"
+      },
+      {
+        "_name": "Mae Whitman",
+        "_character": "Amity Blight (voice)"
+      },
+      {
+        "_name": "Tati Gabrielle",
+        "_character": "Willow Park (voice)"
+      },
+      {
+        "_name": "Issac Ryan Brown",
+        "_character": "Augustus \"Gus\" Porter (voice)"
+      }
+    ],
+    "release_date": "2020-01-10",
+    "number_of_episodes": 43,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 85077,
+    "name": "The Chosen",
+    "overview": "The life of Christ through the eyes of those who encountered him called The Chosen.",
+    "genres": [
+      "Drama",
+      "Family",
+      "Action & Adventure"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+    "nota": 8.66,
+    "atores": [
+      {
+        "_name": "Jonathan Roumie",
+        "_character": "Jesus of Nazareth"
+      },
+      {
+        "_name": "Shahar Isaac",
+        "_character": "Simon Peter"
+      },
+      {
+        "_name": "Elizabeth Tabish",
+        "_character": "Mary Magdalene / Lillith"
+      },
+      {
+        "_name": "Paras Patel",
+        "_character": "Matthew"
+      },
+      {
+        "_name": "Noah James",
+        "_character": "Andrew"
+      },
+      {
+        "_name": "George H. Xanthis",
+        "_character": "John"
+      },
+      {
+        "_name": "Abe Bueno-Jallad",
+        "_character": "Big James"
+      },
+      {
+        "_name": "Joey Vahedi",
+        "_character": "Thomas"
+      },
+      {
+        "_name": "Giavani Cairo",
+        "_character": "Thaddeus"
+      },
+      {
+        "_name": "Jordan Walker Ross",
+        "_character": "Little James"
+      },
+      {
+        "_name": "Shaan Sharma",
+        "_character": "Shmuel"
+      },
+      {
+        "_name": "Kirk B.R. Woller",
+        "_character": "Gaius"
+      },
+      {
+        "_name": "Vanessa Benavente",
+        "_character": "Mary"
+      },
+      {
+        "_name": "Austin Reed Alleman",
+        "_character": "Nathaniel"
+      },
+      {
+        "_name": "Alaa Safi",
+        "_character": "Simon Z"
+      },
+      {
+        "_name": "Luke Dimyan",
+        "_character": "Judas Iscariot"
+      },
+      {
+        "_name": "Amber Shana Williams",
+        "_character": "Tamar"
+      },
+      {
+        "_name": "Lara Silva",
+        "_character": "Eden"
+      },
+      {
+        "_name": "Nick Shakoour",
+        "_character": "Zebedee"
+      },
+      {
+        "_name": "Ivan Jasso",
+        "_character": "Yussif"
+      },
+      {
+        "_name": "Elijah Alexander",
+        "_character": "Atticus Aemilius"
+      },
+      {
+        "_name": "Reza Diako",
+        "_character": "Philip"
+      }
+    ],
+    "release_date": "2019-04-21",
+    "number_of_episodes": 40,
+    "number_of_seasons": 5
+  },
+  {
+    "id": 70785,
+    "name": "Anne with an E",
+    "overview": "A coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her place in the world. The series centers on a young orphaned girl in the late 1890’s, who, after an abusive childhood spent in orphanages and the homes of strangers, is mistakenly sent to live with an elderly woman and her aging brother. Over time, 13-year-old Anne will transform their lives and eventually the small town in which they live with her unique spirit, fierce intellect and brilliant imagination.",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+    "nota": 8.66,
+    "atores": [
+      {
+        "_name": "Amybeth McNulty",
+        "_character": "Anne Shirley"
+      },
+      {
+        "_name": "Geraldine James",
+        "_character": "Marilla Cuthbert"
+      },
+      {
+        "_name": "R.H. Thomson",
+        "_character": "Matthew Cuthbert"
+      },
+      {
+        "_name": "Lucas Jade Zumann",
+        "_character": "Gilbert Blythe"
+      },
+      {
+        "_name": "Joanna Douglas",
+        "_character": "Miss Stacy"
+      }
+    ],
+    "release_date": "2017-03-19",
+    "number_of_episodes": 27,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 1398,
+    "name": "The Sopranos",
+    "overview": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+    "nota": 8.66,
+    "atores": [
+      {
+        "_name": "James Gandolfini",
+        "_character": "Tony Soprano"
+      },
+      {
+        "_name": "Edie Falco",
+        "_character": "Carmela Soprano"
+      },
+      {
+        "_name": "Jamie-Lynn Sigler",
+        "_character": "Meadow Soprano"
+      },
+      {
+        "_name": "Robert Iler",
+        "_character": "A.J. Soprano"
+      },
+      {
+        "_name": "Lorraine Bracco",
+        "_character": "Jennifer Melfi"
+      },
+      {
+        "_name": "Michael Imperioli",
+        "_character": "Christopher Moltisanti"
+      },
+      {
+        "_name": "Steven Van Zandt",
+        "_character": "Silvio Dante"
+      },
+      {
+        "_name": "Tony Sirico",
+        "_character": "Paulie Gualtieri"
+      },
+      {
+        "_name": "Dominic Chianese",
+        "_character": "Corrado 'Junior' Soprano"
+      },
+      {
+        "_name": "Aida Turturro",
+        "_character": "Janice Soprano"
+      },
+      {
+        "_name": "Steve Schirripa",
+        "_character": "Bobby 'Bacala' Baccalieri"
+      }
+    ],
+    "release_date": "1999-01-10",
+    "number_of_episodes": 86,
+    "number_of_seasons": 6
+  },
+  {
+    "id": 42705,
+    "name": "Fighting Spirit",
+    "overview": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/1LApB9C9kEkh2ZU2vzAhurNDipl.jpg",
+    "nota": 8.65,
+    "atores": [
+      {
+        "_name": "Kohei Kiyasu",
+        "_character": "Ippo Makunouchi (voice)"
+      },
+      {
+        "_name": "Rikiya Koyama",
+        "_character": "Mamoru Takamura (voice)"
+      },
+      {
+        "_name": "Wataru Takagi",
+        "_character": "Masaru Aoki (voice)"
+      },
+      {
+        "_name": "Keiji Fujiwara",
+        "_character": "Tatsuya Kimura (voice)"
+      },
+      {
+        "_name": "Jurota Kosugi",
+        "_character": "Ralph Anderson (voice)"
+      },
+      {
+        "_name": "Hidenobu Kiuchi",
+        "_character": "David Eagle (voice)"
+      },
+      {
+        "_name": "Hisao Egawa",
+        "_character": "Iwao Shimabukuro (voice)"
+      },
+      {
+        "_name": "Shin-ichiro Miki",
+        "_character": "Ryuhei Sawamura (voice)"
+      }
+    ],
+    "release_date": "2000-10-03",
+    "number_of_episodes": 126,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 240411,
+    "name": "Dan Da Dan",
+    "overview": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+    "nota": 8.64,
+    "atores": [
+      {
+        "_name": "Shion Wakayama",
+        "_character": "Momo Ayase (voice)"
+      },
+      {
+        "_name": "Natsuki Hanae",
+        "_character": "Ken 'Okarun' Takakura (voice)"
+      },
+      {
+        "_name": "Mayumi Tanaka",
+        "_character": "Turbo Granny (voice)"
+      },
+      {
+        "_name": "Nana Mizuki",
+        "_character": "Seiko (voice)"
+      }
+    ],
+    "release_date": "2024-10-04",
+    "number_of_episodes": 24,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 85937,
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a \"demon slayer\" so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+    "nota": 8.65,
+    "atores": [
+      {
+        "_name": "Natsuki Hanae",
+        "_character": "Tanjiro Kamado (voice)"
+      },
+      {
+        "_name": "Akari Kito",
+        "_character": "Nezuko Kamado (voice)"
+      },
+      {
+        "_name": "Hiro Shimono",
+        "_character": "Zenitsu Agatsuma (voice)"
+      },
+      {
+        "_name": "Yoshitsugu Matsuoka",
+        "_character": "Inosuke Hashibira (voice)"
+      },
+      {
+        "_name": "Nobuhiko Okamoto",
+        "_character": "Genya Shinazugawa (voice)"
+      },
+      {
+        "_name": "Takahiro Sakurai",
+        "_character": "Giyu Tomioka (voice)"
+      }
+    ],
+    "release_date": "2019-04-06",
+    "number_of_episodes": 63,
+    "number_of_seasons": 5
+  },
+  {
+    "id": 42573,
+    "name": "Slam Dunk",
+    "overview": "Sakuragi Hanamichi is a junior high punk used to getting into fights and being rejected by girls but upon entering high school he meets the girl of his dreams, Haruko Akagi. He will do anything in order to win her heart including joining the school basketball team that is aiming to conquer the nation lead by Haruko's brother. The problem is that Sakuragi has never played basketball before and a freshman sensation is stealing the spotlight and Haruko's affection from him.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/gpkM8VeiYyQuEg9qkAoNplktwe4.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Takeshi Kusao",
+        "_character": "Hanamichi Sakuragi (voice)"
+      },
+      {
+        "_name": "Hikaru Midorikawa",
+        "_character": "Kaede Rukawa (voice)"
+      },
+      {
+        "_name": "Kiyoyuki Yanada",
+        "_character": "Takenori Akagi (voice)"
+      },
+      {
+        "_name": "Yoku Shioya",
+        "_character": "Ryota Miyagi (voice)"
+      },
+      {
+        "_name": "Ryotaro Okiayu",
+        "_character": "Hisashi Mitsui (voice)"
+      },
+      {
+        "_name": "Akiko Hiramatsu",
+        "_character": "Haruko Akagi (voice)"
+      },
+      {
+        "_name": "Eriko Hara",
+        "_character": "Ayako (voice)"
+      },
+      {
+        "_name": "Hideyuki Tanaka",
+        "_character": "Kiminobu Kogure (voice)"
+      },
+      {
+        "_name": "Hisao Egawa",
+        "_character": "Shin'ichi Maki (voice)"
+      },
+      {
+        "_name": "Hochu Otsuka",
+        "_character": "Akira Sendo (voice)"
+      },
+      {
+        "_name": "Tomomichi Nishimura",
+        "_character": "Anzai (voice)"
+      },
+      {
+        "_name": "Toshiyuki Morikawa",
+        "_character": "Yohei Mito (voice) / Kiyota Nobunaga (voice)"
+      },
+      {
+        "_name": "Yukimasa Kishino",
+        "_character": "Jun Uozumi (voice)"
+      },
+      {
+        "_name": "Kozo Shioya",
+        "_character": "Nozomi Takamiya (voice)"
+      },
+      {
+        "_name": "Yûji Mikimoto",
+        "_character": "Chuichirou Noma (voice)"
+      },
+      {
+        "_name": "Nobutoshi Canna",
+        "_character": "Yuuji Ookusu (voice)"
+      },
+      {
+        "_name": "Hiromi Nishikawa",
+        "_character": "Matsui (voice)"
+      },
+      {
+        "_name": "Machiko Toyoshima",
+        "_character": "Fujii (voice)"
+      }
+    ],
+    "release_date": "1993-10-16",
+    "number_of_episodes": 101,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 62741,
+    "name": "Kamisama Kiss",
+    "overview": "Nanami was just a normal high school girl down on her luck until a stranger’s lips marked her as the new Land God and turned her world upside down. Now, she’s figuring out the duties of a deity with the help of Tomoe, a reformed fox demon who reluctantly becomes her familiar in a contract sealed with a kiss. The new responsibilities—and boys—are a lot to handle, like the crow demon masquerading as a gorgeous pop idol and the adorable snake spirit who’s chosen the newly minted god to be his bride. As the headstrong Tomoe tries to whip her into shape, Nanami finds that love just might have cute, pointed fox ears. With romance in the air, will the human deity be able to prove herself worthy of her new title?",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/5E7GL8KxpFemEFl3Lv8Fu4RuSwa.jpg",
+    "nota": 8.64,
+    "atores": [
+      {
+        "_name": "Yui Horie",
+        "_character": "Numa no Himemiko (voice)"
+      },
+      {
+        "_name": "Suzuko Mimori",
+        "_character": "Nanami Momozono (voice)"
+      },
+      {
+        "_name": "Daisuke Namikawa",
+        "_character": "Sukuna Ryuuou (voice)"
+      },
+      {
+        "_name": "Daisuke Kishio",
+        "_character": "Kurama (voice)"
+      },
+      {
+        "_name": "Satomi Sato",
+        "_character": "Ami Nekota (voice)"
+      },
+      {
+        "_name": "Vanilla Yamazaki",
+        "_character": "Narrator (voice)"
+      },
+      {
+        "_name": "Yu Kobayashi",
+        "_character": "Isohime (voice)"
+      },
+      {
+        "_name": "Shuta Morishima",
+        "_character": "Isobe (voice)"
+      },
+      {
+        "_name": "Akira Ishida",
+        "_character": "Mikage (voice)"
+      },
+      {
+        "_name": "Akemi Okamura",
+        "_character": "Kamehime (voice)"
+      },
+      {
+        "_name": "Shinnosuke Tachibana",
+        "_character": "Tomoe (voice)"
+      },
+      {
+        "_name": "Nobuhiko Okamoto",
+        "_character": "Mizuki (voice)"
+      },
+      {
+        "_name": "Natsuyo Atarashi",
+        "_character": "Onikiri (voice)"
+      },
+      {
+        "_name": "Chika Ookubo",
+        "_character": "Kotetsu (voice)"
+      },
+      {
+        "_name": "Hiroki Takahashi",
+        "_character": "Otohiko (voice)"
+      }
+    ],
+    "release_date": "2012-10-02",
+    "number_of_episodes": 25,
+    "number_of_seasons": 2
+  },
+  {
+    "id": 72637,
+    "name": "Once",
+    "overview": "The series revolves around Gabo, a soccer-loving teenager who, upon receiving a scholarship from the prestigious Sports Academic Institute (IAD) of Buenos Aires, will see his dream of playing at Los Halcones Dorados, the renowned amateur team of the school, and also his longing to become a professional footballer.",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Soap"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/d4vPg3QsTJJh6C5MHARTb5CyqOu.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Mariano González",
+        "_character": "Gabriel 'Gabo' Moretti"
+      },
+      {
+        "_name": "Sebastián Athié",
+        "_character": "Lorenzo Guevara"
+      },
+      {
+        "_name": "Juan David Penagos",
+        "_character": "Ricardo 'Ricky' Flores"
+      },
+      {
+        "_name": "Luan Brum",
+        "_character": "André 'Dedé' Duarte"
+      },
+      {
+        "_name": "Paulina Vetrano",
+        "_character": "Zoe Velázquez"
+      },
+      {
+        "_name": "Javier Eloy Bonanno",
+        "_character": "Joaquín Costa"
+      },
+      {
+        "_name": "Renato Quattordio",
+        "_character": "Apolodoros 'Catorce' Nikotatópulos"
+      },
+      {
+        "_name": "Fausto Bengoechea",
+        "_character": "Adrián Roca"
+      },
+      {
+        "_name": "Lucas Minuzzi",
+        "_character": "Pablo Espiga"
+      },
+      {
+        "_name": "Nicolás Pauls",
+        "_character": "Francisco Velázquez"
+      },
+      {
+        "_name": "Guido Pennelli",
+        "_character": "Ezequiel Correa"
+      },
+      {
+        "_name": "Mariano Zabalza",
+        "_character": "Camilo Montero"
+      }
+    ],
+    "release_date": "2017-06-19",
+    "number_of_episodes": 220,
+    "number_of_seasons": 4
+  },
+  {
+    "id": 95557,
+    "name": "INVINCIBLE",
+    "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Steven Yeun",
+        "_character": "Mark Grayson / Invincible (voice)"
+      },
+      {
+        "_name": "Sandra Oh",
+        "_character": "Debbie Grayson (voice)"
+      },
+      {
+        "_name": "J.K. Simmons",
+        "_character": "Nolan Grayson / Omni-Man (voice)"
+      }
+    ],
+    "release_date": "2021-03-25",
+    "number_of_episodes": 24,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 13916,
+    "name": "Death Note",
+    "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+    "genres": [
+      "Animation",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+    "nota": 8.63,
+    "atores": [
+      {
+        "_name": "Mamoru Miyano",
+        "_character": "Light Yagami (voice)"
+      },
+      {
+        "_name": "Shido Nakamura",
+        "_character": "Ryuk (voice)"
+      },
+      {
+        "_name": "Aya Hirano",
+        "_character": "Misa Amane (voice)"
+      },
+      {
+        "_name": "Kappei Yamaguchi",
+        "_character": "L (voice)"
+      },
+      {
+        "_name": "Kimiko Saito",
+        "_character": "Rem (voice)"
+      },
+      {
+        "_name": "Naoya Uchida",
+        "_character": "Soichiro Yagami (voice)"
+      },
+      {
+        "_name": "Ryou Naitou",
+        "_character": "Touta Matsuda (voice)"
+      },
+      {
+        "_name": "Keiji Fujiwara",
+        "_character": "Shuichi Aizawa (voice)"
+      },
+      {
+        "_name": "Kazuya Nakai",
+        "_character": "Kanzo Mogi (voice)"
+      },
+      {
+        "_name": "Noriko Hidaka",
+        "_character": "Near (voice)"
+      },
+      {
+        "_name": "Nozomu Sasaki",
+        "_character": "Mello (voice)"
+      }
+    ],
+    "release_date": "2006-10-04",
+    "number_of_episodes": 37,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 65930,
+    "name": "My Hero Academia",
+    "overview": "For his entire life, Izuku has dreamed of being a hero—an ambitious goal for anyone, but an especially challenging one for a boy without superpowers. That’s right: in a world where 80% of the population has some sort of special gift, Izuku was unlucky enough to be born completely normal. But that won’t stop him from enrolling in one of the most prestigious hero academies in the world to learn what it truly means to be a hero.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+    "nota": 8.6,
+    "atores": [],
+    "release_date": "2016-04-03",
+    "number_of_episodes": 160,
+    "number_of_seasons": 8
+  },
+  {
+    "id": 95269,
+    "name": "Toilet-Bound Hanako-kun",
+    "overview": "First year high school student and occultist, Nene Yashiro summons \"Hanako-san of the Toilet\" to grant her romantic wishes. She ends up Hanako's spiritual assistant, helping him destroy supernatural beings and change rumors to balance the spirit and human worlds. Along the way, Nene learns about her connection to the spirit world and the dark secrets regarding Hanako's past.",
+    "genres": [
+      "Animation",
+      "Mystery",
+      "Comedy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/iehq6tSUylg5kFkOxndNYZWjzNu.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Megumi Ogata",
+        "_character": "Hanako (Yugi Amane) (voice)"
+      },
+      {
+        "_name": "Akari Kito",
+        "_character": "Nene Yashiro (voice)"
+      },
+      {
+        "_name": "Shoya Chiba",
+        "_character": "Kou Minamoto (voice)"
+      },
+      {
+        "_name": "Yuma Uchida",
+        "_character": "Teru Minamoto (voice)"
+      },
+      {
+        "_name": "Takahiro Mizushima",
+        "_character": "Natsuhiko Hyuuga (voice)"
+      },
+      {
+        "_name": "Chika Anzai",
+        "_character": "Sakura Nanamine (voice)"
+      },
+      {
+        "_name": "Chitose Morinaga",
+        "_character": "Mokke B (voice)"
+      },
+      {
+        "_name": "Megumi Ogata",
+        "_character": "Tsukasa Yugi (voice)"
+      },
+      {
+        "_name": "Shunichi Toki",
+        "_character": "Akane Aoi (voice)"
+      },
+      {
+        "_name": "Yukana",
+        "_character": "Yako (The Misaki Stairs) (voice)"
+      },
+      {
+        "_name": "Yu-ri Yoshida",
+        "_character": "Mokke A (voice)"
+      }
+    ],
+    "release_date": "2020-01-10",
+    "number_of_episodes": 28,
+    "number_of_seasons": 2
+  },
+  {
+    "id": 31132,
+    "name": "Regular Show",
+    "overview": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs as groundskeepers at the local park.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "J.G. Quintel",
+        "_character": "Mordecai / Hi Five Ghost (voice)"
+      },
+      {
+        "_name": "William Salyers",
+        "_character": "Rigby (voice)"
+      },
+      {
+        "_name": "Mark Hamill",
+        "_character": "Skips (voice)"
+      },
+      {
+        "_name": "Sam Marin",
+        "_character": "Benson / Pops / Muscle Man (voice)"
+      },
+      {
+        "_name": "Minty Lewis",
+        "_character": "Eileen (voice)"
+      },
+      {
+        "_name": "Matthew Mercer",
+        "_character": "Chance Sureshot / Recap Robot (voice)"
+      },
+      {
+        "_name": "Vanessa Marshall",
+        "_character": "Toothpick Sally (voice)"
+      }
+    ],
+    "release_date": "2010-09-06",
+    "number_of_episodes": 245,
+    "number_of_seasons": 8
+  },
+  {
+    "id": 89456,
+    "name": "Primal",
+    "overview": "A caveman forms a bond with a dinosaur as they struggle to survive in a hostile world.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/ebupzTwgP8nBy0T5J3abqTqUMjK.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Aaron LaPlante",
+        "_character": "Spear (voice)"
+      }
+    ],
+    "release_date": "2019-10-08",
+    "number_of_episodes": 20,
+    "number_of_seasons": 2
+  },
+  {
+    "id": 80040,
+    "name": "Desafío Champions Sendokai",
+    "overview": "",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure",
+      "Family"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/8dBMIQ2r8FdLABrZeGklAUAUYCH.jpg",
+    "nota": 8.61,
+    "atores": [
+      {
+        "_name": "Alex de Porrata",
+        "_character": "Zak (voice)"
+      },
+      {
+        "_name": "Carme Calvell",
+        "_character": "Cloe (voice)"
+      },
+      {
+        "_name": "David Jenner",
+        "_character": "Kiet (voice)"
+      },
+      {
+        "_name": "Ariadna Jiménez",
+        "_character": "Fenzy (voice)"
+      },
+      {
+        "_name": "Ángel de Gracia Galindo",
+        "_character": "Lon (voice)"
+      }
+    ],
+    "release_date": "2013-04-09",
+    "number_of_episodes": 52,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 60863,
+    "name": "Haikyu!!",
+    "overview": "Inspired by a small-statured pro volleyball player, Shouyou Hinata creates a volleyball team in his last year of middle school. Unfortunately the team is matched up against the \"King of the Court\" Tobio Kageyama's team in their first tournament and inevitably lose. After the crushing defeat, Hinata vows to surpass Kageyama. After entering high school, Hinata joins the volleyball team only to find that Tobio has also joined.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
+    "nota": 8.61,
+    "atores": [
+      {
+        "_name": "Ayumu Murase",
+        "_character": "Shoyo Hinata (voice)"
+      },
+      {
+        "_name": "Kaito Ishikawa",
+        "_character": "Tobio Kageyama (voice)"
+      }
+    ],
+    "release_date": "2014-04-06",
+    "number_of_episodes": 85,
+    "number_of_seasons": 4
+  },
+  {
+    "id": 127532,
+    "name": "Solo Leveling",
+    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "nota": 8.61,
+    "atores": [
+      {
+        "_name": "Taito Ban",
+        "_character": "Shun Mizushino (voice)"
+      },
+      {
+        "_name": "Genta Nakamura",
+        "_character": "Kenta Morobishi (voice)"
+      },
+      {
+        "_name": "Haruna Mikawa",
+        "_character": "Aoi Mizushino (voice)"
+      },
+      {
+        "_name": "Reina Ueda",
+        "_character": "Shizuku Kousaka (voice)"
+      },
+      {
+        "_name": "Daisuke Hirakawa",
+        "_character": "Shin Mogami (voice)"
+      },
+      {
+        "_name": "Hiroki Touchi",
+        "_character": "Taiga Shirakawa (voice)"
+      },
+      {
+        "_name": "Banjo Ginga",
+        "_character": "Kiyoomi Goto (voice)"
+      },
+      {
+        "_name": "Makoto Furukawa",
+        "_character": "Akira Inukai (voice)"
+      }
+    ],
+    "release_date": "2024-01-07",
+    "number_of_episodes": 25,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 77696,
+    "name": "Run BTS!",
+    "overview": "Run BTS! is a variety web series starring BTS, broadcasting intermittent for free viewing on Weverse and YouTube, was formerly offered weekly for free viewing on V LIVE.",
+    "genres": [
+      "Reality"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/guNo600nrTIIh88C9i6HFlCAhE.jpg",
+    "nota": 8.61,
+    "atores": [
+      {
+        "_name": "RM",
+        "_character": "Self"
+      },
+      {
+        "_name": "Jin",
+        "_character": "Self"
+      },
+      {
+        "_name": "Suga",
+        "_character": "Self"
+      },
+      {
+        "_name": "j-hope",
+        "_character": "Self"
+      },
+      {
+        "_name": "Jimin",
+        "_character": "Self"
+      },
+      {
+        "_name": "V",
+        "_character": "Self"
+      },
+      {
+        "_name": "Jung Kook",
+        "_character": "Self"
+      }
+    ],
+    "release_date": "2015-08-01",
+    "number_of_episodes": 165,
+    "number_of_seasons": 7
+  },
+  {
+    "id": 100,
+    "name": "I Am Not an Animal",
+    "overview": "I Am Not An Animal is an animated comedy series about the only six talking animals in the world, whose cosseted existence in a vivisection unit is turned upside down when they are liberated by animal rights activists.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/zXhtWhYtlJVyyp5MdT7ggMJn5si.jpg",
+    "nota": 8.61,
+    "atores": [
+      {
+        "_name": "Steve Coogan",
+        "_character": "Mark the Bird (voice)"
+      },
+      {
+        "_name": "Julia Davis",
+        "_character": "Claire the Rat (voice)"
+      },
+      {
+        "_name": "Simon Pegg",
+        "_character": "Kieron the Cat (voice)"
+      },
+      {
+        "_name": "Kevin Eldon",
+        "_character": "Hugh the Monkey (voice)"
+      },
+      {
+        "_name": "Amelia Bullmore",
+        "_character": "Winona the Dog (voice)"
+      },
+      {
+        "_name": "John Shrapnel",
+        "_character": "Narrator"
+      },
+      {
+        "_name": "Arthur Mathews",
+        "_character": "Niall the Rabbit (voice)"
+      }
+    ],
+    "release_date": "2004-05-10",
+    "number_of_episodes": 6,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 57706,
+    "name": "Ranma ½",
+    "overview": "Ranma Saotome, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns into a girl and a cute, well-built redhead at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Akane Tendo, a girl who hates boys.",
+    "genres": [
+      "Comedy",
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Kappei Yamaguchi",
+        "_character": "Ranma Saotome ♂ (voice)"
+      },
+      {
+        "_name": "Megumi Hayashibara",
+        "_character": "Ranma Saotome ♀ (voice)"
+      }
+    ],
+    "release_date": "1989-04-15",
+    "number_of_episodes": 161,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 1430,
+    "name": "Cosmos: A Personal Voyage",
+    "overview": "Carl Sagan covers a wide range of scientific subjects, including the origin of life and a perspective of our place in the universe.",
+    "genres": [
+      "Documentary"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/nOGArjE0WMkzY2GW1taJm8l9gxD.jpg",
+    "nota": 8.61,
+    "atores": [
+      {
+        "_name": "Carl Sagan",
+        "_character": "Self - Host"
+      }
+    ],
+    "release_date": "1980-09-28",
+    "number_of_episodes": 13,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 259666,
+    "name": "No One Will Miss Us",
+    "overview": "It's the '90s, and five losers run an illegal business at their high school. They sell homework and assignments to their classmates. The advantage is that no one ever suspects the nerds. Their business brings them money and popularity. But hormones and an unexpected death threaten to ruin everything. If the business collapses, their futures and their friendships are at risk.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
+    "nota": 8.59,
+    "atores": [
+      {
+        "_name": "Axel Madrazo",
+        "_character": "Memo"
+      },
+      {
+        "_name": "Nicolás Haza",
+        "_character": "Alex"
+      },
+      {
+        "_name": "Virgilio Delgado",
+        "_character": "Tenoch"
+      },
+      {
+        "_name": "Camila Calónico",
+        "_character": "Marifer"
+      },
+      {
+        "_name": "Macarena Oz",
+        "_character": "Daniela"
+      },
+      {
+        "_name": "Eduardo Maruri",
+        "_character": "Diego"
+      },
+      {
+        "_name": "Alejandro Puente",
+        "_character": "Rafa"
+      },
+      {
+        "_name": "Ernesto Laguardia",
+        "_character": "Director"
+      },
+      {
+        "_name": "Daniela Luque",
+        "_character": "Maestra Ilse"
+      },
+      {
+        "_name": "Demetrio Bonilla",
+        "_character": "Erick"
+      },
+      {
+        "_name": "Asbel Ramses",
+        "_character": "Benny"
+      },
+      {
+        "_name": "Regina Cedeño",
+        "_character": "Susana"
+      },
+      {
+        "_name": "Ela Valim",
+        "_character": "Mariana"
+      },
+      {
+        "_name": "Carla Adell",
+        "_character": "Paulina"
+      },
+      {
+        "_name": "Emanuel Lattanzio",
+        "_character": "Lalo"
+      },
+      {
+        "_name": "Alessandro Jaimes",
+        "_character": "Bernardo"
+      },
+      {
+        "_name": "Fernando Sujo",
+        "_character": "Jero"
+      },
+      {
+        "_name": "Miguel Pérez Gil",
+        "_character": "Salatiel"
+      },
+      {
+        "_name": "Mauricio Pimentel",
+        "_character": "Pascual"
+      },
+      {
+        "_name": "Tiaré Scanda",
+        "_character": "Rocío"
+      },
+      {
+        "_name": "Natalia Payan",
+        "_character": "Lili"
+      },
+      {
+        "_name": "Daniel Haddad",
+        "_character": "Miguel"
+      },
+      {
+        "_name": "Humberto Busto",
+        "_character": "Carlos"
+      },
+      {
+        "_name": "Montserrat Marañon",
+        "_character": "Beatriz"
+      },
+      {
+        "_name": "Anabel Ferreira",
+        "_character": "Yoli"
+      },
+      {
+        "_name": "Johanna Murillo",
+        "_character": "Alicia"
+      },
+      {
+        "_name": "Moisés Arizmendi",
+        "_character": "Óscar"
+      },
+      {
+        "_name": "Isabella Camil",
+        "_character": "Mamá de Mariana"
+      },
+      {
+        "_name": "Gabriela Rivero",
+        "_character": "Maestra"
+      },
+      {
+        "_name": "Martha Reyes Arias",
+        "_character": "Aurora"
+      },
+      {
+        "_name": "Nora Velázquez",
+        "_character": "Prof. Magda"
+      },
+      {
+        "_name": "Patricia Martínez",
+        "_character": "Tía Graciela"
+      },
+      {
+        "_name": "Joaquín Chablé",
+        "_character": "Tío Benito"
+      },
+      {
+        "_name": "Yuriria del Valle",
+        "_character": "Mamá de Alex"
+      }
+    ],
+    "release_date": "2024-08-09",
+    "number_of_episodes": 8,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 62914,
+    "name": "Merlí",
+    "overview": "He’s surly, unorthodox, unapologetically blunt, and he’s about to change your life. Meet the new philosophy teacher, Merlí, who will help his students view the world in a whole new light, both in and out of the classroom.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/wQaGnuwIHhmB1jgY6CM3rJgScYR.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Francesc Orella",
+        "_character": "Merlí Bergeron Calduch"
+      },
+      {
+        "_name": "Carlos Cuevas",
+        "_character": "Pol Rubio"
+      },
+      {
+        "_name": "David Solans",
+        "_character": "Bruno Bergeron"
+      },
+      {
+        "_name": "Elisabet Casanovas",
+        "_character": "Tània Illa"
+      },
+      {
+        "_name": "Adrian Grösser",
+        "_character": "Marc Vilaseca"
+      },
+      {
+        "_name": "Marcos Franz",
+        "_character": "Gerard Piguillem Castells"
+      },
+      {
+        "_name": "Júlia Creus",
+        "_character": "Mònica de Villamore"
+      },
+      {
+        "_name": "Albert Baró",
+        "_character": "Joan Capdevila Bonet"
+      },
+      {
+        "_name": "Candela Antón",
+        "_character": "Berta Prats García"
+      },
+      {
+        "_name": "Pau Poch",
+        "_character": "Iván Blasco"
+      },
+      {
+        "_name": "Iñaki Mur",
+        "_character": "Oliver Grau"
+      },
+      {
+        "_name": "Laia Manzanares",
+        "_character": "Oksana Casanoves"
+      },
+      {
+        "_name": "Marta Marco",
+        "_character": "Gina Castells"
+      },
+      {
+        "_name": "Anna Ycobalzeta",
+        "_character": "Miriam Blasco"
+      },
+      {
+        "_name": "Oriol Pla",
+        "_character": "Oscar Rubio"
+      },
+      {
+        "_name": "Boris Ruiz",
+        "_character": "Alfonso Rubio"
+      },
+      {
+        "_name": "Anna Maria Barbany",
+        "_character": "Carmina Calduch"
+      },
+      {
+        "_name": "Pere Ponce",
+        "_character": "Eugeni Bosc"
+      },
+      {
+        "_name": "Ferran Rañé",
+        "_character": "Manel Millán"
+      },
+      {
+        "_name": "Assun Planas",
+        "_character": "Glòria"
+      },
+      {
+        "_name": "Patrícia Bargalló",
+        "_character": "Mireia"
+      },
+      {
+        "_name": "Sandra Monclús",
+        "_character": "Elisenda"
+      },
+      {
+        "_name": "Pau Vinyals",
+        "_character": "Gabi"
+      },
+      {
+        "_name": "Carlota Olcina",
+        "_character": "Silvana"
+      },
+      {
+        "_name": "Rubén de Eguía",
+        "_character": "Albert"
+      },
+      {
+        "_name": "Manel Barceló",
+        "_character": "Quima"
+      },
+      {
+        "_name": "Nao Albet",
+        "_character": "Efra"
+      }
+    ],
+    "release_date": "2015-09-14",
+    "number_of_episodes": 40,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 82728,
+    "name": "Bluey",
+    "overview": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Comedy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Dave McCormack",
+        "_character": "Bandit Heeler (voice)"
+      },
+      {
+        "_name": "Melanie Zanetti",
+        "_character": "Chilli Heeler (voice)"
+      }
+    ],
+    "release_date": "2018-10-01",
+    "number_of_episodes": 153,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 1438,
+    "name": "The Wire",
+    "overview": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Dominic West",
+        "_character": "Jimmy McNulty"
+      },
+      {
+        "_name": "Lance Reddick",
+        "_character": "Cedric Daniels"
+      },
+      {
+        "_name": "Sonja Sohn",
+        "_character": "Kima Greggs"
+      },
+      {
+        "_name": "Wendell Pierce",
+        "_character": "Bunk Moreland"
+      },
+      {
+        "_name": "Michael Kenneth Williams",
+        "_character": "Omar Little"
+      },
+      {
+        "_name": "Deirdre Lovejoy",
+        "_character": "Rhonda Pearlman"
+      },
+      {
+        "_name": "J.D. Williams",
+        "_character": "Bodie Broadus"
+      },
+      {
+        "_name": "John Doman",
+        "_character": "William Rawls"
+      },
+      {
+        "_name": "Jamie Hector",
+        "_character": "Marlo Stanfield"
+      },
+      {
+        "_name": "Aidan Gillen",
+        "_character": "Tommy Carcetti"
+      },
+      {
+        "_name": "Seth Gilliam",
+        "_character": "Ellis Carver"
+      },
+      {
+        "_name": "Domenick Lombardozzi",
+        "_character": "Herc Hauk"
+      },
+      {
+        "_name": "Corey Parker Robinson",
+        "_character": "Leander Sydnor"
+      },
+      {
+        "_name": "Isiah Whitlock, Jr.",
+        "_character": "Clay Davis"
+      },
+      {
+        "_name": "Michael Kostroff",
+        "_character": "Maury Levy"
+      },
+      {
+        "_name": "Reg E. Cathey",
+        "_character": "Norman Wilson"
+      },
+      {
+        "_name": "Clark Johnson",
+        "_character": "Augustus Haynes"
+      },
+      {
+        "_name": "Tom McCarthy",
+        "_character": "Scott Templeton"
+      },
+      {
+        "_name": "Gbenga Akinnagbe",
+        "_character": "Chris Partlow"
+      },
+      {
+        "_name": "Neal Huff",
+        "_character": "Michael Steintorf"
+      },
+      {
+        "_name": "Jermaine Crawford",
+        "_character": "Dukie Weems"
+      },
+      {
+        "_name": "Tristan Mack Wilds",
+        "_character": "Michael Lee"
+      },
+      {
+        "_name": "Michelle Paress",
+        "_character": "Alma Gutierrez"
+      }
+    ],
+    "release_date": "2002-06-02",
+    "number_of_episodes": 60,
+    "number_of_seasons": 5
+  },
+  {
+    "id": 3854,
+    "name": "The Spectacular Spider-Man",
+    "overview": "Having spent the summer engaging common criminals with his new-found powers, not so typical 16-year-old Peter Parker must conceal his secret identity and battle super-villains in the real world as he enters his junior year of high school.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Kids",
+      "Family"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Josh Keaton",
+        "_character": "Peter Parker / Spider Man (voice)"
+      }
+    ],
+    "release_date": "2008-03-08",
+    "number_of_episodes": 26,
+    "number_of_seasons": 2
+  },
+  {
+    "id": 79141,
+    "name": "Scissor Seven",
+    "overview": "Seeking to recover his memory, a scissor-wielding, hairdressing, bungling quasi-assassin stumbles into a struggle for power among feuding factions.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/rCxPTLTfcNhgD8F6VwKxfCAAbf8.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Xiaofeng He",
+        "_character": "伍六七 (voice)"
+      },
+      {
+        "_name": "Duan Yixuan",
+        "_character": "梅花十三 (voice)"
+      }
+    ],
+    "release_date": "2018-04-25",
+    "number_of_episodes": 50,
+    "number_of_seasons": 5
+  },
+  {
+    "id": 66732,
+    "name": "Stranger Things",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Millie Bobby Brown",
+        "_character": "Jane 'Eleven' Hopper"
+      },
+      {
+        "_name": "Finn Wolfhard",
+        "_character": "Mike Wheeler"
+      },
+      {
+        "_name": "Gaten Matarazzo",
+        "_character": "Dustin Henderson"
+      },
+      {
+        "_name": "Caleb McLaughlin",
+        "_character": "Lucas Sinclair"
+      },
+      {
+        "_name": "Sadie Sink",
+        "_character": "Max Mayfield"
+      },
+      {
+        "_name": "David Harbour",
+        "_character": "Jim Hopper"
+      },
+      {
+        "_name": "Winona Ryder",
+        "_character": "Joyce Byers"
+      },
+      {
+        "_name": "Natalia Dyer",
+        "_character": "Nancy Wheeler"
+      },
+      {
+        "_name": "Joe Keery",
+        "_character": "Steve Harrington"
+      },
+      {
+        "_name": "Charlie Heaton",
+        "_character": "Jonathan Byers"
+      },
+      {
+        "_name": "Maya Hawke",
+        "_character": "Robin Buckley"
+      },
+      {
+        "_name": "Brett Gelman",
+        "_character": "Murray Bauman"
+      },
+      {
+        "_name": "Paul Reiser",
+        "_character": "Sam Owens"
+      },
+      {
+        "_name": "Jamie Campbell Bower",
+        "_character": "Henry Creel"
+      },
+      {
+        "_name": "Matthew Modine",
+        "_character": "Martin Brenner"
+      }
+    ],
+    "release_date": "2016-07-15",
+    "number_of_episodes": 42,
+    "number_of_seasons": 5
+  },
+  {
+    "id": 97186,
+    "name": "Love, Victor",
+    "overview": "Victor is a new student at Creekwood High School on his own journey of self-discovery, facing challenges at home, adjusting to a new city, and struggling with his sexual orientation. When it all seems too much, he reaches out to Simon to help him navigate the ups and downs of high school.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/xnZYv0myYIhKW0iPDTh697n5qu0.jpg",
+    "nota": 8.59,
+    "atores": [
+      {
+        "_name": "Michael Cimino",
+        "_character": "Victor Salazar"
+      },
+      {
+        "_name": "George Sear",
+        "_character": "Benjamin 'Benji' Campbell"
+      },
+      {
+        "_name": "Rachel Hilson",
+        "_character": "Mia Brooks"
+      },
+      {
+        "_name": "Anthony Turpel",
+        "_character": "Felix Weston"
+      },
+      {
+        "_name": "Bebe Wood",
+        "_character": "Lake Meriwether"
+      },
+      {
+        "_name": "Mason Gooding",
+        "_character": "Andrew  Spencer"
+      },
+      {
+        "_name": "Isabella Ferreira",
+        "_character": "Pilar Salazar"
+      },
+      {
+        "_name": "Mateo Fernandez",
+        "_character": "Adrian Salazar"
+      },
+      {
+        "_name": "Anthony Keyvan",
+        "_character": "Rahim"
+      },
+      {
+        "_name": "Ava Capri",
+        "_character": "Lucy"
+      },
+      {
+        "_name": "James Martinez",
+        "_character": "Armando Salazar"
+      },
+      {
+        "_name": "Ana Ortiz",
+        "_character": "Isabel Salazar"
+      }
+    ],
+    "release_date": "2020-06-17",
+    "number_of_episodes": 28,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 68595,
+    "name": "Planet Earth II",
+    "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
+    "genres": [
+      "Documentary",
+      "Family"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/tUKomxy50suT4MyxjYfOJDkZUq3.jpg",
+    "nota": 8.59,
+    "atores": [
+      {
+        "_name": "David Attenborough",
+        "_character": "Self - Narrator"
+      }
+    ],
+    "release_date": "2016-11-06",
+    "number_of_episodes": 6,
+    "number_of_seasons": 1
+  },
+  {
+    "id": 124834,
+    "name": "Heartstopper",
+    "overview": "Teens Charlie and Nick discover their unlikely friendship might be something more as they navigate school and young love in this coming-of-age series.",
+    "genres": [
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/dQc0QbDiHjGmWxTfKtBgYtS4bj5.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Joe Locke",
+        "_character": "Charlie Spring"
+      },
+      {
+        "_name": "Kit Connor",
+        "_character": "Nick Nelson"
+      },
+      {
+        "_name": "William Gao",
+        "_character": "Tao Xu"
+      },
+      {
+        "_name": "Yasmin Finney",
+        "_character": "Elle Argent"
+      },
+      {
+        "_name": "Corinna Brown",
+        "_character": "Tara Jones"
+      },
+      {
+        "_name": "Kizzy Edgell",
+        "_character": "Darcy Olsson"
+      },
+      {
+        "_name": "Tobie Donovan",
+        "_character": "Isaac Henderson"
+      },
+      {
+        "_name": "Rhea Norwood",
+        "_character": "Imogen Heaney"
+      },
+      {
+        "_name": "Jenny Walser",
+        "_character": "Tori Spring"
+      },
+      {
+        "_name": "Leila Khan",
+        "_character": "Sahar Zahid"
+      }
+    ],
+    "release_date": "2022-04-22",
+    "number_of_episodes": 24,
+    "number_of_seasons": 3
+  },
+  {
+    "id": 46896,
+    "name": "The Originals",
+    "overview": "A spin-off from The Vampire Diaries and set in New Orleans, The Originals centers on the Mikaelson siblings, otherwise known as the world's original vampires: Klaus, Elijah, and Rebekah. Now Klaus must take down his protégé, Marcel, who is now in charge of New Orleans, in order to re-take his city, as he originally built New Orleans. Klaus departed from the city after being chased down by his father Mikael, while it was being constructed and Marcel took charge. As Klaus has returned after many years, his ego has provoked him to become the king of the city. \"Every King needs an heir\" says Klaus, accepting the unborn child. The child is a first to be born to a hybrid and a werewolf.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Mystery"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/2llbXc2BOkLkBGgcNJCRbrWedUO.jpg",
+    "nota": 8.59,
+    "atores": [
+      {
+        "_name": "Joseph Morgan",
+        "_character": "Klaus Mikaelson"
+      },
+      {
+        "_name": "Daniel Gillies",
+        "_character": "Elijah Mikaelson"
+      },
+      {
+        "_name": "Charles Michael Davis",
+        "_character": "Marcel Gerard"
+      },
+      {
+        "_name": "Riley Voelkel",
+        "_character": "Freya Mikaelson"
+      },
+      {
+        "_name": "Yusuf Gatewood",
+        "_character": "Vincent Griffith"
+      },
+      {
+        "_name": "Danielle Rose Russell",
+        "_character": "Hope Mikaelson"
+      },
+      {
+        "_name": "Steven Krueger",
+        "_character": "Joshua \"Josh\" Rosza"
+      }
+    ],
+    "release_date": "2013-10-03",
+    "number_of_episodes": 92,
+    "number_of_seasons": 5
+  },
+  {
+    "id": 40075,
+    "name": "Gravity Falls",
+    "overview": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their great uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Mystery",
+      "Sci-Fi & Fantasy",
+      "Kids",
+      "Action & Adventure",
+      "Family"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/qwi3p6PzKfQZ4YXBzv3CP5pO2dE.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "Jason Ritter",
+        "_character": "Dipper Pines (voice)"
+      },
+      {
+        "_name": "Kristen Schaal",
+        "_character": "Mabel Pines (voice)"
+      },
+      {
+        "_name": "Alex Hirsch",
+        "_character": "Grunkle Stan / Soos Ramirez / Old Man McGucket (voice)"
+      },
+      {
+        "_name": "Linda Cardellini",
+        "_character": "Wendy Corduroy (voice)"
+      }
+    ],
+    "release_date": "2012-06-15",
+    "number_of_episodes": 40,
+    "number_of_seasons": 2
+  }
+]

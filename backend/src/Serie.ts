@@ -22,4 +22,8 @@ export class Serie extends Obra {
     toString(): string {
         return super.toString() + ` \n\n Nº Episodios: ${this._number_of_episodes} \n\n Nº Temporadas: ${this._number_of_seasons}`;
     }
+
+    toJson(): object {
+        return {...super.toJson(), number_of_episodes: this.number_of_episodes, number_of_seasons: this.number_of_seasons};
+    }
 }
