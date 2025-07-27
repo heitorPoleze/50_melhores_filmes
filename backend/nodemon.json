@@ -2,6 +2,6 @@
   "watch": ["src"],
   "ext": "ts",
   "ignore": ["src/**/*.spec.ts"],
-  "exec": "node --loader ts-node/esm ./src/index.ts",
+  "exec": "node --loader ts-node/esm ./src/server.ts",
   "delay": "5000"
 }

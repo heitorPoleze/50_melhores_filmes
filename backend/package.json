@@ -1,11 +1,11 @@
 {
   "name": "typescript",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon src/index.ts",
+    "dev": "nodemon src/server.ts",
     "build": "tsc",
-    "start": "node dist/index.js"
+    "start": "node dist/server.js"
   },
   "author": "heitor poleze",
   "license": "ISC",
@@ -13,9 +13,13 @@
   "description": "",
   "dependencies": {
     "chalk": "^4.1.2",
-    "dotenv": "^17.2.0"
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
