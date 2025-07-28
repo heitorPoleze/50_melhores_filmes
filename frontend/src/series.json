@@ -97,7 +97,7 @@
       "Drama"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/q29q6AByug53pnylCytwLA7m6AY.jpg",
-    "nota": 8.77,
+    "nota": 8.78,
     "atores": [
       {
         "_name": "IU",
@@ -216,7 +216,7 @@
       "Sci-Fi & Fantasy"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/v2vn1coUMPKw0GI1KGC5J4IXtqp.jpg",
-    "nota": 8.8,
+    "nota": 8.75,
     "atores": [
       {
         "_name": "Zach Tyler Eisen",
@@ -463,6 +463,44 @@
     "number_of_seasons": 1
   },
   {
+    "id": 60625,
+    "name": "Rick and Morty",
+    "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "nota": 8.69,
+    "atores": [
+      {
+        "_name": "Chris Parnell",
+        "_character": "Jerry Smith (voice)"
+      },
+      {
+        "_name": "Spencer Grammer",
+        "_character": "Summer Smith (voice)"
+      },
+      {
+        "_name": "Sarah Chalke",
+        "_character": "Beth Smith (voice)"
+      },
+      {
+        "_name": "Ian Cardoni",
+        "_character": "Rick Sanchez (voice)"
+      },
+      {
+        "_name": "Harry Belden",
+        "_character": "Morty Smith (voice)"
+      }
+    ],
+    "release_date": "2013-12-02",
+    "number_of_episodes": 81,
+    "number_of_seasons": 8
+  },
+  {
     "id": 87108,
     "name": "Chernobyl",
     "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
@@ -550,44 +588,6 @@
     "number_of_seasons": 1
   },
   {
-    "id": 60625,
-    "name": "Rick and Morty",
-    "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
-    ],
-    "imgLink": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
-    "nota": 8.69,
-    "atores": [
-      {
-        "_name": "Chris Parnell",
-        "_character": "Jerry Smith (voice)"
-      },
-      {
-        "_name": "Spencer Grammer",
-        "_character": "Summer Smith (voice)"
-      },
-      {
-        "_name": "Sarah Chalke",
-        "_character": "Beth Smith (voice)"
-      },
-      {
-        "_name": "Ian Cardoni",
-        "_character": "Rick Sanchez (voice)"
-      },
-      {
-        "_name": "Harry Belden",
-        "_character": "Morty Smith (voice)"
-      }
-    ],
-    "release_date": "2013-12-02",
-    "number_of_episodes": 81,
-    "number_of_seasons": 8
-  },
-  {
     "id": 220542,
     "name": "The Apothecary Diaries",
     "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
@@ -597,7 +597,7 @@
       "Mystery"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
-    "nota": 8.67,
+    "nota": 8.7,
     "atores": [
       {
         "_name": "Aoi Yuuki",
@@ -760,7 +760,7 @@
       "Action & Adventure"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-    "nota": 8.66,
+    "nota": 8.7,
     "atores": [
       {
         "_name": "Jonathan Roumie",
@@ -1002,40 +1002,6 @@
     "number_of_seasons": 3
   },
   {
-    "id": 240411,
-    "name": "Dan Da Dan",
-    "overview": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
-    "genres": [
-      "Animation",
-      "Action & Adventure",
-      "Comedy",
-      "Sci-Fi & Fantasy"
-    ],
-    "imgLink": "https://image.tmdb.org/t/p/w500/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
-    "nota": 8.64,
-    "atores": [
-      {
-        "_name": "Shion Wakayama",
-        "_character": "Momo Ayase (voice)"
-      },
-      {
-        "_name": "Natsuki Hanae",
-        "_character": "Ken 'Okarun' Takakura (voice)"
-      },
-      {
-        "_name": "Mayumi Tanaka",
-        "_character": "Turbo Granny (voice)"
-      },
-      {
-        "_name": "Nana Mizuki",
-        "_character": "Seiko (voice)"
-      }
-    ],
-    "release_date": "2024-10-04",
-    "number_of_episodes": 24,
-    "number_of_seasons": 1
-  },
-  {
     "id": 85937,
     "name": "Demon Slayer: Kimetsu no Yaiba",
     "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a \"demon slayer\" so that he can turn his sister back into a human, and kill the demon that massacred his family.",
@@ -1075,6 +1041,40 @@
     "release_date": "2019-04-06",
     "number_of_episodes": 63,
     "number_of_seasons": 5
+  },
+  {
+    "id": 240411,
+    "name": "Dan Da Dan",
+    "overview": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+    "nota": 8.64,
+    "atores": [
+      {
+        "_name": "Shion Wakayama",
+        "_character": "Momo Ayase (voice)"
+      },
+      {
+        "_name": "Natsuki Hanae",
+        "_character": "Ken 'Okarun' Takakura (voice)"
+      },
+      {
+        "_name": "Mayumi Tanaka",
+        "_character": "Turbo Granny (voice)"
+      },
+      {
+        "_name": "Nana Mizuki",
+        "_character": "Seiko (voice)"
+      }
+    ],
+    "release_date": "2024-10-04",
+    "number_of_episodes": 24,
+    "number_of_seasons": 1
   },
   {
     "id": 42573,
@@ -1407,7 +1407,7 @@
       "Sci-Fi & Fantasy"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
-    "nota": 8.6,
+    "nota": 8.63,
     "atores": [],
     "release_date": "2016-04-03",
     "number_of_episodes": 160,
@@ -1473,7 +1473,7 @@
       }
     ],
     "release_date": "2020-01-10",
-    "number_of_episodes": 28,
+    "number_of_episodes": 29,
     "number_of_seasons": 2
   },
   {
@@ -1774,7 +1774,7 @@
       "Documentary"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/nOGArjE0WMkzY2GW1taJm8l9gxD.jpg",
-    "nota": 8.61,
+    "nota": 8.6,
     "atores": [
       {
         "_name": "Carl Sagan",
@@ -1783,158 +1783,6 @@
     ],
     "release_date": "1980-09-28",
     "number_of_episodes": 13,
-    "number_of_seasons": 1
-  },
-  {
-    "id": 259666,
-    "name": "No One Will Miss Us",
-    "overview": "It's the '90s, and five losers run an illegal business at their high school. They sell homework and assignments to their classmates. The advantage is that no one ever suspects the nerds. Their business brings them money and popularity. But hormones and an unexpected death threaten to ruin everything. If the business collapses, their futures and their friendships are at risk.",
-    "genres": [
-      "Drama",
-      "Comedy"
-    ],
-    "imgLink": "https://image.tmdb.org/t/p/w500/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
-    "nota": 8.59,
-    "atores": [
-      {
-        "_name": "Axel Madrazo",
-        "_character": "Memo"
-      },
-      {
-        "_name": "Nicolás Haza",
-        "_character": "Alex"
-      },
-      {
-        "_name": "Virgilio Delgado",
-        "_character": "Tenoch"
-      },
-      {
-        "_name": "Camila Calónico",
-        "_character": "Marifer"
-      },
-      {
-        "_name": "Macarena Oz",
-        "_character": "Daniela"
-      },
-      {
-        "_name": "Eduardo Maruri",
-        "_character": "Diego"
-      },
-      {
-        "_name": "Alejandro Puente",
-        "_character": "Rafa"
-      },
-      {
-        "_name": "Ernesto Laguardia",
-        "_character": "Director"
-      },
-      {
-        "_name": "Daniela Luque",
-        "_character": "Maestra Ilse"
-      },
-      {
-        "_name": "Demetrio Bonilla",
-        "_character": "Erick"
-      },
-      {
-        "_name": "Asbel Ramses",
-        "_character": "Benny"
-      },
-      {
-        "_name": "Regina Cedeño",
-        "_character": "Susana"
-      },
-      {
-        "_name": "Ela Valim",
-        "_character": "Mariana"
-      },
-      {
-        "_name": "Carla Adell",
-        "_character": "Paulina"
-      },
-      {
-        "_name": "Emanuel Lattanzio",
-        "_character": "Lalo"
-      },
-      {
-        "_name": "Alessandro Jaimes",
-        "_character": "Bernardo"
-      },
-      {
-        "_name": "Fernando Sujo",
-        "_character": "Jero"
-      },
-      {
-        "_name": "Miguel Pérez Gil",
-        "_character": "Salatiel"
-      },
-      {
-        "_name": "Mauricio Pimentel",
-        "_character": "Pascual"
-      },
-      {
-        "_name": "Tiaré Scanda",
-        "_character": "Rocío"
-      },
-      {
-        "_name": "Natalia Payan",
-        "_character": "Lili"
-      },
-      {
-        "_name": "Daniel Haddad",
-        "_character": "Miguel"
-      },
-      {
-        "_name": "Humberto Busto",
-        "_character": "Carlos"
-      },
-      {
-        "_name": "Montserrat Marañon",
-        "_character": "Beatriz"
-      },
-      {
-        "_name": "Anabel Ferreira",
-        "_character": "Yoli"
-      },
-      {
-        "_name": "Johanna Murillo",
-        "_character": "Alicia"
-      },
-      {
-        "_name": "Moisés Arizmendi",
-        "_character": "Óscar"
-      },
-      {
-        "_name": "Isabella Camil",
-        "_character": "Mamá de Mariana"
-      },
-      {
-        "_name": "Gabriela Rivero",
-        "_character": "Maestra"
-      },
-      {
-        "_name": "Martha Reyes Arias",
-        "_character": "Aurora"
-      },
-      {
-        "_name": "Nora Velázquez",
-        "_character": "Prof. Magda"
-      },
-      {
-        "_name": "Patricia Martínez",
-        "_character": "Tía Graciela"
-      },
-      {
-        "_name": "Joaquín Chablé",
-        "_character": "Tío Benito"
-      },
-      {
-        "_name": "Yuriria del Valle",
-        "_character": "Mamá de Alex"
-      }
-    ],
-    "release_date": "2024-08-09",
-    "number_of_episodes": 8,
     "number_of_seasons": 1
   },
   {
@@ -2243,6 +2091,26 @@
     "number_of_seasons": 5
   },
   {
+    "id": 68595,
+    "name": "Planet Earth II",
+    "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
+    "genres": [
+      "Documentary",
+      "Family"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/tUKomxy50suT4MyxjYfOJDkZUq3.jpg",
+    "nota": 8.6,
+    "atores": [
+      {
+        "_name": "David Attenborough",
+        "_character": "Self - Narrator"
+      }
+    ],
+    "release_date": "2016-11-06",
+    "number_of_episodes": 6,
+    "number_of_seasons": 1
+  },
+  {
     "id": 66732,
     "name": "Stranger Things",
     "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
@@ -2320,6 +2188,158 @@
     "number_of_seasons": 5
   },
   {
+    "id": 259666,
+    "name": "No One Will Miss Us",
+    "overview": "It's the '90s, and five losers run an illegal business at their high school. They sell homework and assignments to their classmates. The advantage is that no one ever suspects the nerds. Their business brings them money and popularity. But hormones and an unexpected death threaten to ruin everything. If the business collapses, their futures and their friendships are at risk.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
+    "nota": 8.59,
+    "atores": [
+      {
+        "_name": "Axel Madrazo",
+        "_character": "Memo"
+      },
+      {
+        "_name": "Nicolás Haza",
+        "_character": "Alex"
+      },
+      {
+        "_name": "Virgilio Delgado",
+        "_character": "Tenoch"
+      },
+      {
+        "_name": "Camila Calónico",
+        "_character": "Marifer"
+      },
+      {
+        "_name": "Macarena Oz",
+        "_character": "Daniela"
+      },
+      {
+        "_name": "Eduardo Maruri",
+        "_character": "Diego"
+      },
+      {
+        "_name": "Alejandro Puente",
+        "_character": "Rafa"
+      },
+      {
+        "_name": "Ernesto Laguardia",
+        "_character": "Director"
+      },
+      {
+        "_name": "Daniela Luque",
+        "_character": "Maestra Ilse"
+      },
+      {
+        "_name": "Demetrio Bonilla",
+        "_character": "Erick"
+      },
+      {
+        "_name": "Asbel Ramses",
+        "_character": "Benny"
+      },
+      {
+        "_name": "Regina Cedeño",
+        "_character": "Susana"
+      },
+      {
+        "_name": "Ela Valim",
+        "_character": "Mariana"
+      },
+      {
+        "_name": "Carla Adell",
+        "_character": "Paulina"
+      },
+      {
+        "_name": "Emanuel Lattanzio",
+        "_character": "Lalo"
+      },
+      {
+        "_name": "Alessandro Jaimes",
+        "_character": "Bernardo"
+      },
+      {
+        "_name": "Fernando Sujo",
+        "_character": "Jero"
+      },
+      {
+        "_name": "Miguel Pérez Gil",
+        "_character": "Salatiel"
+      },
+      {
+        "_name": "Mauricio Pimentel",
+        "_character": "Pascual"
+      },
+      {
+        "_name": "Tiaré Scanda",
+        "_character": "Rocío"
+      },
+      {
+        "_name": "Natalia Payan",
+        "_character": "Lili"
+      },
+      {
+        "_name": "Daniel Haddad",
+        "_character": "Miguel"
+      },
+      {
+        "_name": "Humberto Busto",
+        "_character": "Carlos"
+      },
+      {
+        "_name": "Montserrat Marañon",
+        "_character": "Beatriz"
+      },
+      {
+        "_name": "Anabel Ferreira",
+        "_character": "Yoli"
+      },
+      {
+        "_name": "Johanna Murillo",
+        "_character": "Alicia"
+      },
+      {
+        "_name": "Moisés Arizmendi",
+        "_character": "Óscar"
+      },
+      {
+        "_name": "Isabella Camil",
+        "_character": "Mamá de Mariana"
+      },
+      {
+        "_name": "Gabriela Rivero",
+        "_character": "Maestra"
+      },
+      {
+        "_name": "Martha Reyes Arias",
+        "_character": "Aurora"
+      },
+      {
+        "_name": "Nora Velázquez",
+        "_character": "Prof. Magda"
+      },
+      {
+        "_name": "Patricia Martínez",
+        "_character": "Tía Graciela"
+      },
+      {
+        "_name": "Joaquín Chablé",
+        "_character": "Tío Benito"
+      },
+      {
+        "_name": "Yuriria del Valle",
+        "_character": "Mamá de Alex"
+      }
+    ],
+    "release_date": "2024-08-09",
+    "number_of_episodes": 8,
+    "number_of_seasons": 1
+  },
+  {
     "id": 97186,
     "name": "Love, Victor",
     "overview": "Victor is a new student at Creekwood High School on his own journey of self-discovery, facing challenges at home, adjusting to a new city, and struggling with his sexual orientation. When it all seems too much, he reaches out to Simon to help him navigate the ups and downs of high school.",
@@ -2382,26 +2402,6 @@
     "release_date": "2020-06-17",
     "number_of_episodes": 28,
     "number_of_seasons": 3
-  },
-  {
-    "id": 68595,
-    "name": "Planet Earth II",
-    "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
-    "genres": [
-      "Documentary",
-      "Family"
-    ],
-    "imgLink": "https://image.tmdb.org/t/p/w500/tUKomxy50suT4MyxjYfOJDkZUq3.jpg",
-    "nota": 8.59,
-    "atores": [
-      {
-        "_name": "David Attenborough",
-        "_character": "Self - Narrator"
-      }
-    ],
-    "release_date": "2016-11-06",
-    "number_of_episodes": 6,
-    "number_of_seasons": 1
   },
   {
     "id": 124834,

@@ -514,7 +514,7 @@
       "Crime"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
-    "nota": 8.57,
+    "nota": 8.6,
     "atores": [
       {
         "_name": "Al Pacino",
@@ -866,7 +866,7 @@
       "War"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-    "nota": 8.57,
+    "nota": 8.6,
     "atores": [
       {
         "_name": "Liam Neeson",
@@ -2000,7 +2000,7 @@
         "_character": "Passenger"
       },
       {
-        "_name": "Lorna Gayle",
+        "_name": "Sutara Gayle",
         "_character": "Passenger"
       },
       {
@@ -2392,6 +2392,198 @@
     "diretor": "Aditya Chopra"
   },
   {
+    "id": 497,
+    "name": "The Green Mile",
+    "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Crime"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+    "nota": 8.5,
+    "atores": [
+      {
+        "_name": "Tom Hanks",
+        "_character": "Paul Edgecomb"
+      },
+      {
+        "_name": "David Morse",
+        "_character": "Brutus 'Brutal' Howell"
+      },
+      {
+        "_name": "Bonnie Hunt",
+        "_character": "Jan Edgecomb"
+      },
+      {
+        "_name": "Michael Clarke Duncan",
+        "_character": "John Coffey"
+      },
+      {
+        "_name": "James Cromwell",
+        "_character": "Warden Hal Moores"
+      },
+      {
+        "_name": "Michael Jeter",
+        "_character": "Eduard Delacroix"
+      },
+      {
+        "_name": "Graham Greene",
+        "_character": "Arlen Bitterbuck"
+      },
+      {
+        "_name": "Doug Hutchison",
+        "_character": "Percy Wetmore"
+      },
+      {
+        "_name": "Sam Rockwell",
+        "_character": "'Wild Bill' Wharton"
+      },
+      {
+        "_name": "Barry Pepper",
+        "_character": "Dean Stanton"
+      },
+      {
+        "_name": "Jeffrey DeMunn",
+        "_character": "Harry Terwilliger"
+      },
+      {
+        "_name": "Patricia Clarkson",
+        "_character": "Melinda Moores"
+      },
+      {
+        "_name": "Harry Dean Stanton",
+        "_character": "Toot-Toot"
+      },
+      {
+        "_name": "Dabbs Greer",
+        "_character": "Old Paul Edgecomb"
+      },
+      {
+        "_name": "Eve Brent",
+        "_character": "Elaine Connelly"
+      },
+      {
+        "_name": "William Sadler",
+        "_character": "Klaus Detterick"
+      },
+      {
+        "_name": "Mack Miles",
+        "_character": "Orderly Hector"
+      },
+      {
+        "_name": "Rai Tasco",
+        "_character": "Man in Nursing Home"
+      },
+      {
+        "_name": "Edrie Warner",
+        "_character": "Lady in Nursing Home"
+      },
+      {
+        "_name": "Paula Malcomson",
+        "_character": "Marjorie Detterick"
+      },
+      {
+        "_name": "Christopher Joel Ives",
+        "_character": "Howie Detterick"
+      },
+      {
+        "_name": "Evanne Drucker",
+        "_character": "Kathe Detterick"
+      },
+      {
+        "_name": "Bailey Drucker",
+        "_character": "Cora Detterick"
+      },
+      {
+        "_name": "Brian Libby",
+        "_character": "Sheriff McGee"
+      },
+      {
+        "_name": "Brent Briscoe",
+        "_character": "Bill Dodge"
+      },
+      {
+        "_name": "Bill McKinney",
+        "_character": "Jack Van Hay"
+      },
+      {
+        "_name": "Gary Sinise",
+        "_character": "Burt Hammersmith"
+      },
+      {
+        "_name": "Rachel Singer",
+        "_character": "Cynthia Hammersmith"
+      },
+      {
+        "_name": "Scotty Leavenworth",
+        "_character": "Hammersmith's Son"
+      },
+      {
+        "_name": "Katelyn Leavenworth",
+        "_character": "Hammersmith's Daughter"
+      },
+      {
+        "_name": "Bill Gratton",
+        "_character": "Earl the Plumber"
+      },
+      {
+        "_name": "Dee Croxton",
+        "_character": "Woman at Del's Execution"
+      },
+      {
+        "_name": "Rebecca Klingler",
+        "_character": "Wife at Del's Execution"
+      },
+      {
+        "_name": "Gary Imhoff",
+        "_character": "Husband at Del's Execution"
+      },
+      {
+        "_name": "Van Epperson",
+        "_character": "Police Officer"
+      },
+      {
+        "_name": "David E. Browning",
+        "_character": "Reverend at Funeral"
+      },
+      {
+        "_name": "Tommy Barnes",
+        "_character": "Tower Guard (uncredited)"
+      },
+      {
+        "_name": "Wes Hall",
+        "_character": "Prisoner (uncredited)"
+      },
+      {
+        "_name": "Phil Hawn",
+        "_character": "Police Photographer (uncredited)"
+      },
+      {
+        "_name": "Judy Herrera",
+        "_character": "Bitterbuck's Daughter (uncredited)"
+      },
+      {
+        "_name": "Gower Mills",
+        "_character": "Inmate (uncredited)"
+      },
+      {
+        "_name": "Garth Shaw",
+        "_character": "Inmate (uncredited)"
+      },
+      {
+        "_name": "Jared Stovall",
+        "_character": "Inmate (uncredited)"
+      },
+      {
+        "_name": "Todd Thompson",
+        "_character": "Prison Guard (uncredited)"
+      }
+    ],
+    "release_date": "1999-12-10",
+    "diretor": "Frank Darabont"
+  },
+  {
     "id": 803796,
     "name": "KPop Demon Hunters",
     "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
@@ -2404,7 +2596,7 @@
       "Action"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/22AouvwlhlXbe3nrFcjzL24bvWH.jpg",
-    "nota": 8.5,
+    "nota": 8.49,
     "atores": [
       {
         "_name": "Arden Cho",
@@ -2629,198 +2821,6 @@
     ],
     "release_date": "2025-06-20",
     "diretor": "Chris Appelhans, Maggie Kang."
-  },
-  {
-    "id": 497,
-    "name": "The Green Mile",
-    "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
-    "genres": [
-      "Fantasy",
-      "Drama",
-      "Crime"
-    ],
-    "imgLink": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
-    "nota": 8.5,
-    "atores": [
-      {
-        "_name": "Tom Hanks",
-        "_character": "Paul Edgecomb"
-      },
-      {
-        "_name": "David Morse",
-        "_character": "Brutus 'Brutal' Howell"
-      },
-      {
-        "_name": "Bonnie Hunt",
-        "_character": "Jan Edgecomb"
-      },
-      {
-        "_name": "Michael Clarke Duncan",
-        "_character": "John Coffey"
-      },
-      {
-        "_name": "James Cromwell",
-        "_character": "Warden Hal Moores"
-      },
-      {
-        "_name": "Michael Jeter",
-        "_character": "Eduard Delacroix"
-      },
-      {
-        "_name": "Graham Greene",
-        "_character": "Arlen Bitterbuck"
-      },
-      {
-        "_name": "Doug Hutchison",
-        "_character": "Percy Wetmore"
-      },
-      {
-        "_name": "Sam Rockwell",
-        "_character": "'Wild Bill' Wharton"
-      },
-      {
-        "_name": "Barry Pepper",
-        "_character": "Dean Stanton"
-      },
-      {
-        "_name": "Jeffrey DeMunn",
-        "_character": "Harry Terwilliger"
-      },
-      {
-        "_name": "Patricia Clarkson",
-        "_character": "Melinda Moores"
-      },
-      {
-        "_name": "Harry Dean Stanton",
-        "_character": "Toot-Toot"
-      },
-      {
-        "_name": "Dabbs Greer",
-        "_character": "Old Paul Edgecomb"
-      },
-      {
-        "_name": "Eve Brent",
-        "_character": "Elaine Connelly"
-      },
-      {
-        "_name": "William Sadler",
-        "_character": "Klaus Detterick"
-      },
-      {
-        "_name": "Mack Miles",
-        "_character": "Orderly Hector"
-      },
-      {
-        "_name": "Rai Tasco",
-        "_character": "Man in Nursing Home"
-      },
-      {
-        "_name": "Edrie Warner",
-        "_character": "Lady in Nursing Home"
-      },
-      {
-        "_name": "Paula Malcomson",
-        "_character": "Marjorie Detterick"
-      },
-      {
-        "_name": "Christopher Joel Ives",
-        "_character": "Howie Detterick"
-      },
-      {
-        "_name": "Evanne Drucker",
-        "_character": "Kathe Detterick"
-      },
-      {
-        "_name": "Bailey Drucker",
-        "_character": "Cora Detterick"
-      },
-      {
-        "_name": "Brian Libby",
-        "_character": "Sheriff McGee"
-      },
-      {
-        "_name": "Brent Briscoe",
-        "_character": "Bill Dodge"
-      },
-      {
-        "_name": "Bill McKinney",
-        "_character": "Jack Van Hay"
-      },
-      {
-        "_name": "Gary Sinise",
-        "_character": "Burt Hammersmith"
-      },
-      {
-        "_name": "Rachel Singer",
-        "_character": "Cynthia Hammersmith"
-      },
-      {
-        "_name": "Scotty Leavenworth",
-        "_character": "Hammersmith's Son"
-      },
-      {
-        "_name": "Katelyn Leavenworth",
-        "_character": "Hammersmith's Daughter"
-      },
-      {
-        "_name": "Bill Gratton",
-        "_character": "Earl the Plumber"
-      },
-      {
-        "_name": "Dee Croxton",
-        "_character": "Woman at Del's Execution"
-      },
-      {
-        "_name": "Rebecca Klingler",
-        "_character": "Wife at Del's Execution"
-      },
-      {
-        "_name": "Gary Imhoff",
-        "_character": "Husband at Del's Execution"
-      },
-      {
-        "_name": "Van Epperson",
-        "_character": "Police Officer"
-      },
-      {
-        "_name": "David E. Browning",
-        "_character": "Reverend at Funeral"
-      },
-      {
-        "_name": "Tommy Barnes",
-        "_character": "Tower Guard (uncredited)"
-      },
-      {
-        "_name": "Wes Hall",
-        "_character": "Prisoner (uncredited)"
-      },
-      {
-        "_name": "Phil Hawn",
-        "_character": "Police Photographer (uncredited)"
-      },
-      {
-        "_name": "Judy Herrera",
-        "_character": "Bitterbuck's Daughter (uncredited)"
-      },
-      {
-        "_name": "Gower Mills",
-        "_character": "Inmate (uncredited)"
-      },
-      {
-        "_name": "Garth Shaw",
-        "_character": "Inmate (uncredited)"
-      },
-      {
-        "_name": "Jared Stovall",
-        "_character": "Inmate (uncredited)"
-      },
-      {
-        "_name": "Todd Thompson",
-        "_character": "Prison Guard (uncredited)"
-      }
-    ],
-    "release_date": "1999-12-10",
-    "diretor": "Frank Darabont"
   },
   {
     "id": 496243,
@@ -4885,425 +4885,6 @@
     "diretor": "Christopher Nolan"
   },
   {
-    "id": 346,
-    "name": "Seven Samurai",
-    "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "imgLink": "https://image.tmdb.org/t/p/w500/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
-    "nota": 8.46,
-    "atores": [
-      {
-        "_name": "Toshirō Mifune",
-        "_character": "Kikuchiyo"
-      },
-      {
-        "_name": "Takashi Shimura",
-        "_character": "Kambei Shimada"
-      },
-      {
-        "_name": "Yoshio Inaba",
-        "_character": "Gorobei Katayama"
-      },
-      {
-        "_name": "Seiji Miyaguchi",
-        "_character": "Kyuzo"
-      },
-      {
-        "_name": "Minoru Chiaki",
-        "_character": "Heihachi Hayashida"
-      },
-      {
-        "_name": "Daisuke Katō",
-        "_character": "Shichiroji"
-      },
-      {
-        "_name": "Isao Kimura",
-        "_character": "Katsushiro Okamoto"
-      },
-      {
-        "_name": "Keiko Tsushima",
-        "_character": "Shino"
-      },
-      {
-        "_name": "Yukiko Shimazaki",
-        "_character": "Rikichi's Wife"
-      },
-      {
-        "_name": "Kamatari Fujiwara",
-        "_character": "Manzô - Father of Shino"
-      },
-      {
-        "_name": "Yoshio Kosugi",
-        "_character": "Mosuke"
-      },
-      {
-        "_name": "Bokuzen Hidari",
-        "_character": "Yohei"
-      },
-      {
-        "_name": "Yoshio Tsuchiya",
-        "_character": "Rikichi"
-      },
-      {
-        "_name": "Kokuten Kōdō",
-        "_character": "Gisaku, the Old Man"
-      },
-      {
-        "_name": "Eijirō Tōno",
-        "_character": "Kidnapper"
-      },
-      {
-        "_name": "Jun Tatara",
-        "_character": "Coolie A"
-      },
-      {
-        "_name": "Atsushi Watanabe",
-        "_character": "Bun Seller"
-      },
-      {
-        "_name": "Toranosuke Ogawa",
-        "_character": "Grandfather of Kidnapped Girl"
-      },
-      {
-        "_name": "Isao Yamagata",
-        "_character": "Samurai"
-      },
-      {
-        "_name": "Kichijirō Ueda",
-        "_character": "Bandit Scout"
-      },
-      {
-        "_name": "Sôjin Kamiyama",
-        "_character": "Blind Player"
-      },
-      {
-        "_name": "Gen Shimizu",
-        "_character": "Samurai Who Kicks Farmers"
-      },
-      {
-        "_name": "Keiji Sakakida",
-        "_character": "Gosaku"
-      },
-      {
-        "_name": "Shinpei Takagi",
-        "_character": "Bandit Chieftain"
-      },
-      {
-        "_name": "Shin Ōtomo",
-        "_character": "Bandit Second-in-Command"
-      },
-      {
-        "_name": "Toshio Takahara",
-        "_character": "Samurai with Gun"
-      },
-      {
-        "_name": "Kan Sugi",
-        "_character": "Tea Shop Owner"
-      },
-      {
-        "_name": "Hiroshi Hayashi",
-        "_character": "Weak Ronin"
-      },
-      {
-        "_name": "Sachio Sakai",
-        "_character": "Coolie #2"
-      },
-      {
-        "_name": "Sôkichi Maki",
-        "_character": "Strong-Looking Samurai"
-      },
-      {
-        "_name": "Ichirō Chiba",
-        "_character": "Buddhist Priest"
-      },
-      {
-        "_name": "Noriko Sengoku",
-        "_character": "Wife of Gono Family"
-      },
-      {
-        "_name": "Noriko Honma",
-        "_character": "Woman Farmer"
-      },
-      {
-        "_name": "Masanobu Ōkubo",
-        "_character": "Samurai"
-      },
-      {
-        "_name": "Etsuo Saijo",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Minoru Itō",
-        "_character": "Samurai"
-      },
-      {
-        "_name": "Haruya Sakamoto",
-        "_character": "Samurai"
-      },
-      {
-        "_name": "Gorô Sakurai",
-        "_character": "Samurai"
-      },
-      {
-        "_name": "Hideo Shibuya",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Kiyoshi Kamoda",
-        "_character": "Samurai"
-      },
-      {
-        "_name": "Senkichi Ōmura",
-        "_character": "Bandit Who Escapes"
-      },
-      {
-        "_name": "Takashi Narita",
-        "_character": "Bandit Who Escapes"
-      },
-      {
-        "_name": "Shōichi Hirose",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Kôji Uno",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Masaaki Tachibana",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Kamayuki Tsubono",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Taiji Naka",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Chindanji Miyagawa",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Shigemi Sunagawa",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Akira Tani",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Akio Kusama",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Ryûtarô Amami",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Jun Mikami",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Haruo Nakajima",
-        "_character": "Bandit"
-      },
-      {
-        "_name": "Sanpei Mine",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Masahide Matsushita",
-        "_character": "Samurai"
-      },
-      {
-        "_name": "Kaneo Ikeda",
-        "_character": "Samurai"
-      },
-      {
-        "_name": "Takuzô Kumagaya",
-        "_character": "Gisaku's Son"
-      },
-      {
-        "_name": "Ippei Kawagoe",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Jirô Suzukawa",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Junpei Natsuki",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Kyôichi Kamiyama",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Haruo Suzuki",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Gorô Amano",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Akira Kitchôji",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Kōji Iwamoto",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Hiroshi Akitsu",
-        "_character": "Husband of Gono Family"
-      },
-      {
-        "_name": "Akira Yamada",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Kazuo Imai",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Eisuke Nakanishi",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Toku Ihara",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Hideo Ôtsuka",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Shû Ôe",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Yasuhisa Tsutsumi",
-        "_character": "Farmer in Front of Gono"
-      },
-      {
-        "_name": "Yasumasa Ônishi",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Tsuneo Katagiri",
-        "_character": "Farmer in Front of Gono"
-      },
-      {
-        "_name": "Megeru Shimoda",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Masayoshi Kawabe",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Shigeo Katō",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Yoshikazu Kawamata",
-        "_character": "Farmer"
-      },
-      {
-        "_name": "Takeshi Seki",
-        "_character": "Coolie #3"
-      },
-      {
-        "_name": "Haruko Toyama",
-        "_character": "Gisaku's Daughter-in-Law"
-      },
-      {
-        "_name": "Tsuruko Mano",
-        "_character": "Woman Farmer in front of Gono"
-      },
-      {
-        "_name": "Matsue Ono",
-        "_character": "Woman Farmer"
-      },
-      {
-        "_name": "Tsurue Ichimanji",
-        "_character": "Woman Farmer"
-      },
-      {
-        "_name": "Masako Ōshiro",
-        "_character": "Woman Farmer"
-      },
-      {
-        "_name": "Kyōko Ozawa",
-        "_character": "Woman Farmer"
-      },
-      {
-        "_name": "Michiko Kadono",
-        "_character": "Farmer's Wife"
-      },
-      {
-        "_name": "Toshiko Nakano",
-        "_character": "Farmer's Wife"
-      },
-      {
-        "_name": "Shizuko Azuma",
-        "_character": "Farmer's Wife"
-      },
-      {
-        "_name": "Michiko Kawabe",
-        "_character": "Farmer's Wife"
-      },
-      {
-        "_name": "Yûko Togawa",
-        "_character": "Farmer's Wife"
-      },
-      {
-        "_name": "Yayoko Kitano",
-        "_character": "Farmer's Wife"
-      },
-      {
-        "_name": "Kyoko Mori",
-        "_character": "Farmer's Wife"
-      },
-      {
-        "_name": "Misao Suyama",
-        "_character": "Woman Farmer"
-      },
-      {
-        "_name": "Toriko Takahara",
-        "_character": "Woman Farmer"
-      },
-      {
-        "_name": "Takeshi Katō",
-        "_character": "Samurai Wandering through Town (uncredited)"
-      },
-      {
-        "_name": "Tatsuya Nakadai",
-        "_character": "Samurai Wandering through Town (uncredited)"
-      },
-      {
-        "_name": "Ken Utsui",
-        "_character": "Samurai Wandering through Town (uncredited)"
-      },
-      {
-        "_name": "Ren Yamamoto",
-        "_character": "Farmer (uncredited)"
-      },
-      {
-        "_name": "Takuzō Kumagai",
-        "_character": "Gisaku's Son"
-      }
-    ],
-    "release_date": "1954-04-26",
-    "diretor": "Akira Kurosawa"
-  },
-  {
     "id": 769,
     "name": "GoodFellas",
     "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
@@ -5881,6 +5462,425 @@
     ],
     "release_date": "1990-09-12",
     "diretor": "Martin Scorsese"
+  },
+  {
+    "id": 346,
+    "name": "Seven Samurai",
+    "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+    "nota": 8.46,
+    "atores": [
+      {
+        "_name": "Toshirō Mifune",
+        "_character": "Kikuchiyo"
+      },
+      {
+        "_name": "Takashi Shimura",
+        "_character": "Kambei Shimada"
+      },
+      {
+        "_name": "Yoshio Inaba",
+        "_character": "Gorobei Katayama"
+      },
+      {
+        "_name": "Seiji Miyaguchi",
+        "_character": "Kyuzo"
+      },
+      {
+        "_name": "Minoru Chiaki",
+        "_character": "Heihachi Hayashida"
+      },
+      {
+        "_name": "Daisuke Katō",
+        "_character": "Shichiroji"
+      },
+      {
+        "_name": "Isao Kimura",
+        "_character": "Katsushiro Okamoto"
+      },
+      {
+        "_name": "Keiko Tsushima",
+        "_character": "Shino"
+      },
+      {
+        "_name": "Yukiko Shimazaki",
+        "_character": "Rikichi's Wife"
+      },
+      {
+        "_name": "Kamatari Fujiwara",
+        "_character": "Manzô - Father of Shino"
+      },
+      {
+        "_name": "Yoshio Kosugi",
+        "_character": "Mosuke"
+      },
+      {
+        "_name": "Bokuzen Hidari",
+        "_character": "Yohei"
+      },
+      {
+        "_name": "Yoshio Tsuchiya",
+        "_character": "Rikichi"
+      },
+      {
+        "_name": "Kokuten Kōdō",
+        "_character": "Gisaku, the Old Man"
+      },
+      {
+        "_name": "Eijirō Tōno",
+        "_character": "Kidnapper"
+      },
+      {
+        "_name": "Jun Tatara",
+        "_character": "Coolie A"
+      },
+      {
+        "_name": "Atsushi Watanabe",
+        "_character": "Bun Seller"
+      },
+      {
+        "_name": "Toranosuke Ogawa",
+        "_character": "Grandfather of Kidnapped Girl"
+      },
+      {
+        "_name": "Isao Yamagata",
+        "_character": "Samurai"
+      },
+      {
+        "_name": "Kichijirō Ueda",
+        "_character": "Bandit Scout"
+      },
+      {
+        "_name": "Sôjin Kamiyama",
+        "_character": "Blind Player"
+      },
+      {
+        "_name": "Gen Shimizu",
+        "_character": "Samurai Who Kicks Farmers"
+      },
+      {
+        "_name": "Keiji Sakakida",
+        "_character": "Gosaku"
+      },
+      {
+        "_name": "Shinpei Takagi",
+        "_character": "Bandit Chieftain"
+      },
+      {
+        "_name": "Shin Ōtomo",
+        "_character": "Bandit Second-in-Command"
+      },
+      {
+        "_name": "Toshio Takahara",
+        "_character": "Samurai with Gun"
+      },
+      {
+        "_name": "Kan Sugi",
+        "_character": "Tea Shop Owner"
+      },
+      {
+        "_name": "Hiroshi Hayashi",
+        "_character": "Weak Ronin"
+      },
+      {
+        "_name": "Sachio Sakai",
+        "_character": "Coolie #2"
+      },
+      {
+        "_name": "Sôkichi Maki",
+        "_character": "Strong-Looking Samurai"
+      },
+      {
+        "_name": "Ichirō Chiba",
+        "_character": "Buddhist Priest"
+      },
+      {
+        "_name": "Noriko Sengoku",
+        "_character": "Wife of Gono Family"
+      },
+      {
+        "_name": "Noriko Honma",
+        "_character": "Woman Farmer"
+      },
+      {
+        "_name": "Masanobu Ōkubo",
+        "_character": "Samurai"
+      },
+      {
+        "_name": "Etsuo Saijo",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Minoru Itō",
+        "_character": "Samurai"
+      },
+      {
+        "_name": "Haruya Sakamoto",
+        "_character": "Samurai"
+      },
+      {
+        "_name": "Gorô Sakurai",
+        "_character": "Samurai"
+      },
+      {
+        "_name": "Hideo Shibuya",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Kiyoshi Kamoda",
+        "_character": "Samurai"
+      },
+      {
+        "_name": "Senkichi Ōmura",
+        "_character": "Bandit Who Escapes"
+      },
+      {
+        "_name": "Takashi Narita",
+        "_character": "Bandit Who Escapes"
+      },
+      {
+        "_name": "Shōichi Hirose",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Kôji Uno",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Masaaki Tachibana",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Kamayuki Tsubono",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Taiji Naka",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Chindanji Miyagawa",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Shigemi Sunagawa",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Akira Tani",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Akio Kusama",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Ryûtarô Amami",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Jun Mikami",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Haruo Nakajima",
+        "_character": "Bandit"
+      },
+      {
+        "_name": "Sanpei Mine",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Masahide Matsushita",
+        "_character": "Samurai"
+      },
+      {
+        "_name": "Kaneo Ikeda",
+        "_character": "Samurai"
+      },
+      {
+        "_name": "Takuzô Kumagaya",
+        "_character": "Gisaku's Son"
+      },
+      {
+        "_name": "Ippei Kawagoe",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Jirô Suzukawa",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Junpei Natsuki",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Kyôichi Kamiyama",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Haruo Suzuki",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Gorô Amano",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Akira Kitchôji",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Kōji Iwamoto",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Hiroshi Akitsu",
+        "_character": "Husband of Gono Family"
+      },
+      {
+        "_name": "Akira Yamada",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Kazuo Imai",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Eisuke Nakanishi",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Toku Ihara",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Hideo Ôtsuka",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Shû Ôe",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Yasuhisa Tsutsumi",
+        "_character": "Farmer in Front of Gono"
+      },
+      {
+        "_name": "Yasumasa Ônishi",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Tsuneo Katagiri",
+        "_character": "Farmer in Front of Gono"
+      },
+      {
+        "_name": "Megeru Shimoda",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Masayoshi Kawabe",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Shigeo Katō",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Yoshikazu Kawamata",
+        "_character": "Farmer"
+      },
+      {
+        "_name": "Takeshi Seki",
+        "_character": "Coolie #3"
+      },
+      {
+        "_name": "Haruko Toyama",
+        "_character": "Gisaku's Daughter-in-Law"
+      },
+      {
+        "_name": "Tsuruko Mano",
+        "_character": "Woman Farmer in front of Gono"
+      },
+      {
+        "_name": "Matsue Ono",
+        "_character": "Woman Farmer"
+      },
+      {
+        "_name": "Tsurue Ichimanji",
+        "_character": "Woman Farmer"
+      },
+      {
+        "_name": "Masako Ōshiro",
+        "_character": "Woman Farmer"
+      },
+      {
+        "_name": "Kyōko Ozawa",
+        "_character": "Woman Farmer"
+      },
+      {
+        "_name": "Michiko Kadono",
+        "_character": "Farmer's Wife"
+      },
+      {
+        "_name": "Toshiko Nakano",
+        "_character": "Farmer's Wife"
+      },
+      {
+        "_name": "Shizuko Azuma",
+        "_character": "Farmer's Wife"
+      },
+      {
+        "_name": "Michiko Kawabe",
+        "_character": "Farmer's Wife"
+      },
+      {
+        "_name": "Yûko Togawa",
+        "_character": "Farmer's Wife"
+      },
+      {
+        "_name": "Yayoko Kitano",
+        "_character": "Farmer's Wife"
+      },
+      {
+        "_name": "Kyoko Mori",
+        "_character": "Farmer's Wife"
+      },
+      {
+        "_name": "Misao Suyama",
+        "_character": "Woman Farmer"
+      },
+      {
+        "_name": "Toriko Takahara",
+        "_character": "Woman Farmer"
+      },
+      {
+        "_name": "Takeshi Katō",
+        "_character": "Samurai Wandering through Town (uncredited)"
+      },
+      {
+        "_name": "Tatsuya Nakadai",
+        "_character": "Samurai Wandering through Town (uncredited)"
+      },
+      {
+        "_name": "Ken Utsui",
+        "_character": "Samurai Wandering through Town (uncredited)"
+      },
+      {
+        "_name": "Ren Yamamoto",
+        "_character": "Farmer (uncredited)"
+      },
+      {
+        "_name": "Takuzō Kumagai",
+        "_character": "Gisaku's Son"
+      }
+    ],
+    "release_date": "1954-04-26",
+    "diretor": "Akira Kurosawa"
   },
   {
     "id": 12477,
@@ -6783,7 +6783,7 @@
       "Crime"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
-    "nota": 8.43,
+    "nota": 8.4,
     "atores": [
       {
         "_name": "Alexandre Rodrigues",
@@ -7390,166 +7390,6 @@
     "diretor": "Fernando Meirelles"
   },
   {
-    "id": 14537,
-    "name": "Harakiri",
-    "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.",
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
-    "imgLink": "https://image.tmdb.org/t/p/w500/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
-    "nota": 8.42,
-    "atores": [
-      {
-        "_name": "Tatsuya Nakadai",
-        "_character": "Hanshiro Tsugumo"
-      },
-      {
-        "_name": "Akira Ishihama",
-        "_character": "Motome Chijiiwa"
-      },
-      {
-        "_name": "Shima Iwashita",
-        "_character": "Miho Tsugumo"
-      },
-      {
-        "_name": "Tetsuro Tamba",
-        "_character": "Hikokuro Omodaka"
-      },
-      {
-        "_name": "Masao Mishima",
-        "_character": "Tango Inaba"
-      },
-      {
-        "_name": "Ichirō Nakatani",
-        "_character": "Hayato Yazaki"
-      },
-      {
-        "_name": "Kei Satō",
-        "_character": "Masakazu"
-      },
-      {
-        "_name": "Yoshio Inaba",
-        "_character": "Jinai Chijiiwa"
-      },
-      {
-        "_name": "Hisashi Igawa",
-        "_character": "Retainer"
-      },
-      {
-        "_name": "Toru Takeuchi",
-        "_character": "Retainer"
-      },
-      {
-        "_name": "Yoshirō Aoki",
-        "_character": ""
-      },
-      {
-        "_name": "Tatsuo Matsumura",
-        "_character": ""
-      },
-      {
-        "_name": "Akiji Kobayashi",
-        "_character": ""
-      },
-      {
-        "_name": "Kōichi Hayashi",
-        "_character": ""
-      },
-      {
-        "_name": "Ryūtarō Gomi",
-        "_character": ""
-      },
-      {
-        "_name": "Jo Azumi",
-        "_character": ""
-      },
-      {
-        "_name": "Nakajirō Tomita",
-        "_character": ""
-      },
-      {
-        "_name": "Shichisaburo Amatsu",
-        "_character": ""
-      },
-      {
-        "_name": "Kenzō Tanaka",
-        "_character": ""
-      },
-      {
-        "_name": "Shin Nakahara",
-        "_character": ""
-      },
-      {
-        "_name": "Tsuneo Ikeda",
-        "_character": ""
-      },
-      {
-        "_name": "Minoru Miyagi",
-        "_character": ""
-      },
-      {
-        "_name": "Takaaki Kadota",
-        "_character": ""
-      },
-      {
-        "_name": "Ichirō Yamamoto",
-        "_character": ""
-      },
-      {
-        "_name": "Gen Takasugi",
-        "_character": ""
-      },
-      {
-        "_name": "Satoshi Nishida",
-        "_character": ""
-      },
-      {
-        "_name": "Tetsuro Komiyama",
-        "_character": ""
-      },
-      {
-        "_name": "Shûichirô Narita",
-        "_character": ""
-      },
-      {
-        "_name": "Noboru Kasuga",
-        "_character": ""
-      },
-      {
-        "_name": "Shinpachi Kura",
-        "_character": ""
-      },
-      {
-        "_name": "Kenji Hayashi",
-        "_character": ""
-      },
-      {
-        "_name": "Shōtarō Hayashi",
-        "_character": ""
-      },
-      {
-        "_name": "Shimezo Kataoka",
-        "_character": ""
-      },
-      {
-        "_name": "Bunya Ozawa",
-        "_character": ""
-      },
-      {
-        "_name": "Konosuke Takemoto",
-        "_character": ""
-      },
-      {
-        "_name": "Rentaro Mikuni",
-        "_character": "Kageyu Saito"
-      }
-    ],
-    "release_date": "1962-09-15",
-    "diretor": "Masaki Kobayashi"
-  },
-  {
     "id": 40096,
     "name": "A Dog's Will",
     "overview": "The lively João Grilo and the sly Chicó are poor guys living in the hinterland who cheat a bunch of people in a small town in Northeastern Brazil. When they die, they have to be judged by Christ, the Devil and the Virgin Mary before they are admitted to paradise.",
@@ -8108,6 +7948,166 @@
     ],
     "release_date": "2001-12-18",
     "diretor": "Peter Jackson"
+  },
+  {
+    "id": 14537,
+    "name": "Harakiri",
+    "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.",
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
+    "nota": 8.42,
+    "atores": [
+      {
+        "_name": "Tatsuya Nakadai",
+        "_character": "Hanshiro Tsugumo"
+      },
+      {
+        "_name": "Akira Ishihama",
+        "_character": "Motome Chijiiwa"
+      },
+      {
+        "_name": "Shima Iwashita",
+        "_character": "Miho Tsugumo"
+      },
+      {
+        "_name": "Tetsuro Tamba",
+        "_character": "Hikokuro Omodaka"
+      },
+      {
+        "_name": "Masao Mishima",
+        "_character": "Tango Inaba"
+      },
+      {
+        "_name": "Ichirō Nakatani",
+        "_character": "Hayato Yazaki"
+      },
+      {
+        "_name": "Kei Satō",
+        "_character": "Masakazu"
+      },
+      {
+        "_name": "Yoshio Inaba",
+        "_character": "Jinai Chijiiwa"
+      },
+      {
+        "_name": "Hisashi Igawa",
+        "_character": "Retainer"
+      },
+      {
+        "_name": "Toru Takeuchi",
+        "_character": "Retainer"
+      },
+      {
+        "_name": "Yoshirō Aoki",
+        "_character": ""
+      },
+      {
+        "_name": "Tatsuo Matsumura",
+        "_character": ""
+      },
+      {
+        "_name": "Akiji Kobayashi",
+        "_character": ""
+      },
+      {
+        "_name": "Kōichi Hayashi",
+        "_character": ""
+      },
+      {
+        "_name": "Ryūtarō Gomi",
+        "_character": ""
+      },
+      {
+        "_name": "Jo Azumi",
+        "_character": ""
+      },
+      {
+        "_name": "Nakajirō Tomita",
+        "_character": ""
+      },
+      {
+        "_name": "Shichisaburo Amatsu",
+        "_character": ""
+      },
+      {
+        "_name": "Kenzō Tanaka",
+        "_character": ""
+      },
+      {
+        "_name": "Shin Nakahara",
+        "_character": ""
+      },
+      {
+        "_name": "Tsuneo Ikeda",
+        "_character": ""
+      },
+      {
+        "_name": "Minoru Miyagi",
+        "_character": ""
+      },
+      {
+        "_name": "Takaaki Kadota",
+        "_character": ""
+      },
+      {
+        "_name": "Ichirō Yamamoto",
+        "_character": ""
+      },
+      {
+        "_name": "Gen Takasugi",
+        "_character": ""
+      },
+      {
+        "_name": "Satoshi Nishida",
+        "_character": ""
+      },
+      {
+        "_name": "Tetsuro Komiyama",
+        "_character": ""
+      },
+      {
+        "_name": "Shûichirô Narita",
+        "_character": ""
+      },
+      {
+        "_name": "Noboru Kasuga",
+        "_character": ""
+      },
+      {
+        "_name": "Shinpachi Kura",
+        "_character": ""
+      },
+      {
+        "_name": "Kenji Hayashi",
+        "_character": ""
+      },
+      {
+        "_name": "Shōtarō Hayashi",
+        "_character": ""
+      },
+      {
+        "_name": "Shimezo Kataoka",
+        "_character": ""
+      },
+      {
+        "_name": "Bunya Ozawa",
+        "_character": ""
+      },
+      {
+        "_name": "Konosuke Takemoto",
+        "_character": ""
+      },
+      {
+        "_name": "Rentaro Mikuni",
+        "_character": "Kageyu Saito"
+      }
+    ],
+    "release_date": "1962-09-15",
+    "diretor": "Masaki Kobayashi"
   },
   {
     "id": 539,
@@ -10237,6 +10237,39 @@
     "diretor": "Irvin Kershner"
   },
   {
+    "id": 704264,
+    "name": "Primal: Tales of Savagery",
+    "overview": "Genndy Tartakovsky's Primal: Tales of Savagery features a caveman and a dinosaur on the brink of extinction. Bonded by tragedy, this unlikely friendship becomes the only hope of survival.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "imgLink": "https://image.tmdb.org/t/p/w500/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg",
+    "nota": 8.39,
+    "atores": [
+      {
+        "_name": "Aaron LaPlante",
+        "_character": "Spear / Big Gorilla / Monkey #3 (voice)"
+      },
+      {
+        "_name": "Jon Olson",
+        "_character": "Krog / Shaman (voice)"
+      },
+      {
+        "_name": "Bryan Andrews",
+        "_character": ""
+      },
+      {
+        "_name": "Darrick Bachman",
+        "_character": ""
+      }
+    ],
+    "release_date": "2019-11-21",
+    "diretor": "Genndy Tartakovsky"
+  },
+  {
     "id": 378064,
     "name": "A Silent Voice: The Movie",
     "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
@@ -10246,7 +10279,7 @@
       "Romance"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
-    "nota": 8.38,
+    "nota": 8.39,
     "atores": [
       {
         "_name": "Miyu Irino",
@@ -10331,39 +10364,6 @@
     ],
     "release_date": "2016-09-17",
     "diretor": "Naoko Yamada"
-  },
-  {
-    "id": 704264,
-    "name": "Primal: Tales of Savagery",
-    "overview": "Genndy Tartakovsky's Primal: Tales of Savagery features a caveman and a dinosaur on the brink of extinction. Bonded by tragedy, this unlikely friendship becomes the only hope of survival.",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Animation",
-      "Drama"
-    ],
-    "imgLink": "https://image.tmdb.org/t/p/w500/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg",
-    "nota": 8.39,
-    "atores": [
-      {
-        "_name": "Aaron LaPlante",
-        "_character": "Spear / Big Gorilla / Monkey #3 (voice)"
-      },
-      {
-        "_name": "Jon Olson",
-        "_character": "Krog / Shaman (voice)"
-      },
-      {
-        "_name": "Bryan Andrews",
-        "_character": ""
-      },
-      {
-        "_name": "Darrick Bachman",
-        "_character": ""
-      }
-    ],
-    "release_date": "2019-11-21",
-    "diretor": "Genndy Tartakovsky"
   },
   {
     "id": 1058694,
@@ -10854,7 +10854,7 @@
       "Music"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
-    "nota": 8.4,
+    "nota": 8.38,
     "atores": [
       {
         "_name": "Miles Teller",
@@ -11599,7 +11599,7 @@
       "Mystery"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
-    "nota": 8.4,
+    "nota": 8.35,
     "atores": [
       {
         "_name": "James Stewart",
@@ -11771,7 +11771,7 @@
       "Thriller"
     ],
     "imgLink": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
-    "nota": 8.3,
+    "nota": 8.35,
     "atores": [
       {
         "_name": "Jodie Foster",
@@ -12460,6 +12460,6 @@
       }
     ],
     "release_date": "2023-05-31",
-    "diretor": "Kemp Powers, Justin K. Thompson, Joaquim Dos Santos."
+    "diretor": "Justin K. Thompson, Kemp Powers, Joaquim Dos Santos."
   }
 ]
