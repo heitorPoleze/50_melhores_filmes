@@ -1,25 +1,25 @@
-import Botao from "../Botao/Botao.tsx";
-import style from "./Funcionalidades.module.css";
-
-function Funcionalidades(props: any) {
+function Funcionalidades(props: {
+  valorBusca: string;
+  setValorBusca: (valor: string) => void;
+  onBuscarPersonagem: () => void;
+  //onBuscarDiretor?: () => void;
+  //onBuscarAtor: () => void; 
+  nomePagina: string
+}) {
   return (
-    <div className={style["funcionalidades"]}>
-        <h1>{props.nomePagina}</h1>
-      <div className={style["linha-input"]}>
-        <input
-          type="text"
-          placeholder="Buscar"
-          className={style["input-busca"]}
-        />
-      </div>
+    <>
+    <h1>{props.nomePagina}</h1>
+    <div>
+      <input
+        type="text"
+        placeholder="Digite para buscar" 
+        value={props.valorBusca}
+        onChange={(e) => props.setValorBusca(e.target.value)}
+      />
 
-      <div className={style["filtros"]}>
-        <Botao descricao="Titulo" />
-        <Botao descricao="Ator" />
-        <Botao descricao="Personagem" />
-        <Botao descricao="Diretor" />
-      </div>
+      <button onClick={props.onBuscarPersonagem}>Buscar personagem</button>
     </div>
+    </>
   );
 }
 

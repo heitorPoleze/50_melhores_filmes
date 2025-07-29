@@ -65,7 +65,7 @@ export class Obra {
             genres: this.genres,  
             imgLink: this.imgLink,
             nota: this.nota,
-            atores: this.atores,
+            atores: this.atores.map(ator => ator.toJson()),
             release_date: this.release_date
         }
     }

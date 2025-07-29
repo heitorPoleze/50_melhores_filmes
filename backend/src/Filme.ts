@@ -12,19 +12,10 @@ export class Filme extends Obra {
         return [...this._diretor];
     }
 
-    get nomesDiretores(): string {
-        if(this._diretor.length === 0){
-            return "Nenhum diretor";
-        }; 
-        if(this._diretor.length === 1){
-            return this._diretor[0].name;
-        };
-        return this._diretor.map(diretor => diretor.name).join(", ") + ".";
-    }
     toString(): string {
-        return super.toString() + ` \n\n ${this.nomesDiretores}`;
+        return super.toString() + ` \n\n ${this.diretor}`;
     }
     toJson(): object {
-        return {... super.toJson(), diretor: this.nomesDiretores};  
+        return {... super.toJson(), diretor: this.diretor.map(diretor => diretor.name)};  
     }
 }

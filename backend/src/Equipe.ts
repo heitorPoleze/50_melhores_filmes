@@ -7,4 +7,7 @@ export class Equipe{
     get name(): string{
         return this._name;
     }
+    toJson(): object{
+        return {name: this.name};
+    }
 }

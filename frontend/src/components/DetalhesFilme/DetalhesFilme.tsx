@@ -1,16 +1,29 @@
 import { useParams } from "react-router-dom";
-import jsonFilmes from "../../filmes.json";
+import { useState, useEffect } from "react";
 import DetalhesObra from "../DetalhesObra/DetalhesObra.tsx";
 import style from "./DetalhesFilme.module.css";
 
 function DetalhesFilme() {
-  const params = useParams();
-  const id = Number(params.id);
-  const filme = jsonFilmes.find(f => f.id === id);
+  const { id } = useParams();
+  const [filme, setFilme] = useState<any>();
 
-  if (!filme) {
-    return <div style={{ color: "red", padding: "2rem" }}>Filme não encontrado</div>;
+useEffect(() => {
+  async function buscaFilme() {
+    try {
+      const res = await fetch(`http://localhost:3000/filmes/${id}`);
+      const dado = await res.json();
+      setFilme(dado);
+    } catch (error: any) {
+      console.error("Erro ao buscar filme:", error);
+    }
   }
+  if (id) buscaFilme();
+}, [id]);
+
+if (!filme) {
+  return <div style={{ padding: "2rem" }}>Carregando...</div>;
+};
+
 
   return (
     <>
@@ -25,8 +38,7 @@ function DetalhesFilme() {
         release_date={filme.release_date}
       />
       <div className={style["diretor"]}>
-        Diretor: 
-        {" " + filme.diretor }
+        Diretor: {filme.diretor ?? "não disponível"}
       </div>
     </>
   );

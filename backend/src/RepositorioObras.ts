@@ -8,36 +8,36 @@ export class RepositorioObras {
     adicionar(obra: Obra): void {
         this.obras.push(obra);
     }
-    listarSeries(): object{
+    listarSeries(): Serie[]{
         return this.obras.filter((obra: Obra) => {
           return obra instanceof Serie
-        }).map(obra => obra.toJson());
+        })
     }
-    listarFilmes(): object{
+    listarFilmes(): Filme[]{
        return this.obras.filter((obra: Obra) => {
             return obra instanceof Filme
-        }).map(obra => obra.toJson());   
+        }) 
     }
-    buscarPorGenero(inpGenero: string | string[]): string {
+    buscarPorGenero(inpGenero: string | string[]): Obra[] {
         if(!Array.isArray(inpGenero)){
-        return this.obras.filter(obra => obra.genres.includes(inpGenero)).map(obra => obra.toString()).join("\n\n");
+        return this.obras.filter(obra => obra.genres.includes(inpGenero));
         }
-        return this.obras.filter(obra => inpGenero.every(genero => obra.genres.includes(genero))).map(obra => obra.toString()).join("\n\n");
+        return this.obras.filter(obra => inpGenero.every(genero => obra.genres.includes(genero)));
     }
 
-    buscarPorTitulo(inpTitulo: string): string {
-        return this.obras.filter(obra => 
-            obra.name.toLowerCase().includes(inpTitulo.toLowerCase())).map(obra => obra.toString()).join("\n\n");
+    buscarPorTitulo(inpTitulo: string): Obra[] {
+        return this.obras.filter(obra => obra.name.toLowerCase().includes(inpTitulo.toLowerCase()));
     }
 
-    buscarPorNomeAtor(inpNome: string): string {
-        return this.obras.filter(obra => obra.atores.some(ator => ator.name.toLowerCase().includes(inpNome.toLowerCase()))).map(obra => obra.toString()).join("\n\n");
+    buscarPorNomeAtor(inpNome: string): Obra[] {
+        return this.obras.filter(obra => obra.atores.some(ator => ator.name.toLowerCase().includes(inpNome.toLowerCase())))}
+
+    buscarPorNomePersonagem(inpNome: string): Obra[] {
+    return this.obras.filter(obra =>obra.atores.some(ator => ator.character.toLowerCase().includes(inpNome.toLowerCase())));
     }
-    buscarPorNomePersonagem(inpNome: string): string {
-        return this.obras.filter(obra => obra.atores.some(ator => ator.character.toLowerCase().includes(inpNome.toLowerCase()))).map(obra => obra.toString()).join("\n\n");
-    }
-    buscarPorNomeDiretor(inpNome: string): string {
+
+    buscarPorNomeDiretor(inpNome: string): Filme[] {
         const filmes = this.obras.filter(obra => obra instanceof Filme) as Filme[];
-        return filmes.filter(filme => filme.diretor.some(diretor => diretor.name.toLowerCase().includes(inpNome.toLowerCase()))).map(filme => filme.toString()).join("\n\n");
+        return filmes.filter(filme => filme.diretor.some(diretor => diretor.name.toLowerCase().includes(inpNome.toLowerCase())));
     }
 }
