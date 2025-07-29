@@ -2,6 +2,7 @@ import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 import DetalhesObra from "../DetalhesObra/DetalhesObra.tsx";
 import style from "./DetalhesFilme.module.css";
+import { getDetalhesObra } from "../../services.tsx";
 
 function DetalhesFilme() {
   const { id } = useParams();
@@ -10,11 +11,10 @@ function DetalhesFilme() {
 useEffect(() => {
   async function buscaFilme() {
     try {
-      const res = await fetch(`http://localhost:3000/filmes/${id}`);
-      const dado = await res.json();
+      const dado = await getDetalhesObra("filmes", Number(id));
       setFilme(dado);
     } catch (error: any) {
-      console.error("Erro ao buscar filme:", error);
+      console.log("Erro ao buscar filme:", error);
     }
   }
   if (id) buscaFilme();
