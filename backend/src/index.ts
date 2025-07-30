@@ -8,7 +8,8 @@ import { Filme } from "./Filme.ts";
 import { RepositorioObras } from "./RepositorioObras.ts";
 import { Serie } from "./Serie.ts";
 import { tipoObra } from "./tipoObra.ts";
-import { Equipe } from "./Equipe.ts";
+import { Participacao } from "./Participacao.ts";
+import { Pessoa } from "./Pessoa.ts";
 
 export const repositorioObras = new RepositorioObras();
 async function getMelhoresObras(tipoObra: tipoObra): Promise<any[]> {
@@ -77,17 +78,42 @@ export async function extrairDados() {
 
     for (let i = 0; i < melhoresFilmes.length; i++) {
       const elencoFilmes = await getAtoresEDiretores('movie', melhoresFilmes[i].id);
+      
       const atoresDesseFilme = elencoFilmes.atores.map((ator: any) => new Ator(ator.name, ator.character));
+      const participacaoAtorFilme = atoresDesseFilme.map((ator: Ator) => new Participacao(ator));
+
       const diretoresDesseFilme = elencoFilmes.diretores.map((diretor: any) => new Diretor(diretor.name));
-      const equipeDesseFilme = new Equipe(atoresDesseFilme, diretoresDesseFilme);
+      const participacaoDiretores = diretoresDesseFilme.map((diretor: Diretor) => new Participacao(diretor));
+    
+      const equipeDesseFilme: Array<Participacao> = [...participacaoAtorFilme, ...participacaoDiretores];
+
+      repositorioObras.adicionar(new Filme(
+        melhoresFilmes[i].id,
+        melhoresFilmes[i].title, 
+        melhoresFilmes[i].overview, 
+        melhoresFilmes[i].poster_path,
+        melhoresFilmes[i].vote_average, 
+        equipeDesseFilme, await getNomesDosGenerosDaObra('movie', melhoresFilmes[i].id), 
+        melhoresFilmes[i].release_date));
+      
 
       const elencoSeries = await getAtoresEDiretores('tv', melhoresSeries[i].id);
-      const atoresDesseSerie = elencoSeries.atores.map((ator: any) => new Ator(ator.name, ator.character));
-      const numeroEpisodiosETemporadas = await getNumeroDeEpisodiosETemporadas(melhoresSeries[i].id);
-      const equipeDessaSerie = new Equipe(atoresDesseSerie, []);
 
-      repositorioObras.adicionar(new Filme(melhoresFilmes[i].id, melhoresFilmes[i].title, melhoresFilmes[i].overview, melhoresFilmes[i].poster_path, melhoresFilmes[i].vote_average, equipeDesseFilme, await getNomesDosGenerosDaObra('movie', melhoresFilmes[i].id), melhoresFilmes[i].release_date));
-      repositorioObras.adicionar(new Serie(melhoresSeries[i].id, melhoresSeries[i].name, melhoresSeries[i].overview, melhoresSeries[i].poster_path, melhoresSeries[i].vote_average, equipeDessaSerie, await getNomesDosGenerosDaObra('tv', melhoresSeries[i].id), melhoresSeries[i].first_air_date, numeroEpisodiosETemporadas.number_of_episodes, numeroEpisodiosETemporadas.number_of_seasons));
+      const atoresDesseSerie = elencoSeries.atores.map((ator: any) => new Ator(ator.name, ator.character));
+      const participacaoAtorSerie = atoresDesseSerie.map((ator: Ator) => new Participacao(ator));
+      console.log(participacaoAtorSerie);
+
+      const numeroEpisodiosETemporadas = await getNumeroDeEpisodiosETemporadas(melhoresSeries[i].id);
+
+      repositorioObras.adicionar(new Serie(
+        melhoresSeries[i].id, 
+        melhoresSeries[i].name, 
+        melhoresSeries[i].overview, 
+        melhoresSeries[i].poster_path, 
+        melhoresSeries[i].vote_average, 
+        participacaoAtorSerie,
+        await getNomesDosGenerosDaObra('tv', melhoresSeries[i].id), 
+        melhoresSeries[i].first_air_date, numeroEpisodiosETemporadas.number_of_episodes, numeroEpisodiosETemporadas.number_of_seasons));
     }
   } catch (error) {
     console.error(error);

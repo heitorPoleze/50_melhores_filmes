@@ -1,5 +1,6 @@
 import { Ator } from "./Ator.ts";
-import { Equipe } from "./Equipe.ts";
+import { Participacao } from "./Participacao.ts";
+import { Pessoa } from "./Pessoa.ts";
 
 export class Obra {
     private _id: number;
@@ -8,10 +9,10 @@ export class Obra {
     private _genres: Array<string>;
     private _imgLink: string;
     private _nota: number;
-    private _equipe: Equipe;
+    private _equipe: Array<Participacao>;
     private _release_date: string;
 
-    constructor(id: number, name: string, overview: string, imgLink: string, nota: number, equipe: Equipe, genres: Array<string>, release_date: string) {
+    constructor(id: number, name: string, overview: string, imgLink: string, nota: number, equipe: Array<Participacao>, genres: Array<string>, release_date: string) {
         this._id = id;
         this._name = name;
         this._overview = overview;
@@ -37,11 +38,11 @@ export class Obra {
     get nota(): number {
         return this._nota;
     }
-    get equipe(): Equipe {
-        return this._equipe;
+    get equipe(): Array<Pessoa> {
+        return this._equipe.map(equipe => equipe.participante);
     }
     get atores(): Array<Ator> {
-        return [...this._equipe.atores];
+        return this.equipe.filter(equipe => equipe instanceof Ator);
     }
     get genres(): Array<string> {
         return [...this._genres];
