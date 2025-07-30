@@ -1,4 +1,4 @@
-const BASE_URL = "https://five0-melhores-filmes.onrender.com";
+const BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:3000";
 
 export async function getObras(type: "filmes" | "series"): Promise<any[]> {
   const res = await fetch(`${BASE_URL}/${type}`);
