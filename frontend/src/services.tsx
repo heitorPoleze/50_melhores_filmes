@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://five0-melhores-filmes.onrender.com";
 
 export async function getObras(type: "filmes" | "series"): Promise<any[]> {
   const res = await fetch(`${BASE_URL}/${type}`);
