@@ -1,12 +1,12 @@
-import { Ator } from "./Ator.ts";
+import { Equipe } from "./Equipe.ts";
 import { Obra } from "./Obra.ts";
 
 export class Serie extends Obra {
     private _number_of_episodes: number;
     private _number_of_seasons: number;
     
-    constructor(id: number, name: string, overview: string, imgLink: string, nota: number, atores: Array<Ator>, genres: Array<string>, release_date: string, number_of_episodes: number, number_of_seasons: number){
-        super(id, name, overview, imgLink, nota, atores, genres, release_date);
+    constructor(id: number, name: string, overview: string, imgLink: string, nota: number, equipe: Equipe, genres: Array<string>, release_date: string, number_of_episodes: number, number_of_seasons: number){
+        super(id, name, overview, imgLink, nota, equipe, genres, release_date);
         this._number_of_episodes = number_of_episodes;
         this._number_of_seasons = number_of_seasons;
     } 

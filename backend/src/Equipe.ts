@@ -1,13 +1,26 @@
+import { Ator } from "./Ator.ts";
+import { Diretor } from "./Diretor.ts";
+
 export class Equipe{
-    private _name: string;
-    
-    constructor(name: string){
-        this._name = name;
+    private _atores: Array<Ator>;
+    private _diretores: Array<Diretor>;
+    constructor(atores: Array<Ator>, diretores: Array<Diretor>){
+        this._atores = atores;
+        this._diretores = diretores;
     }
-    get name(): string{
-        return this._name;
+    get atores(): Array<Ator> {
+        return [...this._atores];
     }
-    toJson(): object{
-        return {name: this.name};
+    get diretores(): Array<Diretor> {
+        return [...this._diretores];
     }
+
+    adicionarAtor(ator: Ator): void {
+        this._atores.push(ator);
+    }
+
+    adicionarDiretor(diretor: Diretor): void {
+        this._diretores.push(diretor);
+    }
+
 }

@@ -1,4 +1,5 @@
 import { Ator } from "./Ator.ts";
+import { Equipe } from "./Equipe.ts";
 
 export class Obra {
     private _id: number;
@@ -7,17 +8,17 @@ export class Obra {
     private _genres: Array<string>;
     private _imgLink: string;
     private _nota: number;
-    private _atores: Array<Ator>;
+    private _equipe: Equipe;
     private _release_date: string;
 
-    constructor(id: number, name: string, overview: string, imgLink: string, nota: number, atores: Array<Ator>, genres: Array<string>, release_date: string) {
+    constructor(id: number, name: string, overview: string, imgLink: string, nota: number, equipe: Equipe, genres: Array<string>, release_date: string) {
         this._id = id;
         this._name = name;
         this._overview = overview;
         this._genres = genres;
         this._imgLink = "https://image.tmdb.org/t/p/w500" + imgLink;
         this._nota = Number(nota.toFixed(2));
-        this._atores = atores;
+        this._equipe = equipe;
         this._release_date = release_date;
     }
 
@@ -36,8 +37,11 @@ export class Obra {
     get nota(): number {
         return this._nota;
     }
+    get equipe(): Equipe {
+        return this._equipe;
+    }
     get atores(): Array<Ator> {
-        return [...this._atores];
+        return [...this._equipe.atores];
     }
     get genres(): Array<string> {
         return [...this._genres];
@@ -46,7 +50,7 @@ export class Obra {
         return this._release_date;
     }
     get atoresInfo(): string {
-        return this._atores.map(ator => ator.name + " - " + ator.character).join(", ");
+        return this.atores.map(ator => ator.name + " - " + ator.character).join(", ");
     }
     get genresInfo(): string {
         return this._genres.join(`, `);

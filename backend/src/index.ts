@@ -8,9 +8,9 @@ import { Filme } from "./Filme.ts";
 import { RepositorioObras } from "./RepositorioObras.ts";
 import { Serie } from "./Serie.ts";
 import { tipoObra } from "./tipoObra.ts";
+import { Equipe } from "./Equipe.ts";
 
 export const repositorioObras = new RepositorioObras();
-
 async function getMelhoresObras(tipoObra: tipoObra): Promise<any[]> {
   const filmes: string[] = [];
   const series: string[] = [];
@@ -79,15 +79,16 @@ export async function extrairDados() {
       const elencoFilmes = await getAtoresEDiretores('movie', melhoresFilmes[i].id);
       const atoresDesseFilme = elencoFilmes.atores.map((ator: any) => new Ator(ator.name, ator.character));
       const diretoresDesseFilme = elencoFilmes.diretores.map((diretor: any) => new Diretor(diretor.name));
+      const equipeDesseFilme = new Equipe(atoresDesseFilme, diretoresDesseFilme);
 
       const elencoSeries = await getAtoresEDiretores('tv', melhoresSeries[i].id);
       const atoresDesseSerie = elencoSeries.atores.map((ator: any) => new Ator(ator.name, ator.character));
       const numeroEpisodiosETemporadas = await getNumeroDeEpisodiosETemporadas(melhoresSeries[i].id);
+      const equipeDessaSerie = new Equipe(atoresDesseSerie, []);
 
-      repositorioObras.adicionar(new Filme(melhoresFilmes[i].id, melhoresFilmes[i].title, melhoresFilmes[i].overview, melhoresFilmes[i].poster_path, melhoresFilmes[i].vote_average, atoresDesseFilme, await getNomesDosGenerosDaObra('movie', melhoresFilmes[i].id), melhoresFilmes[i].release_date, diretoresDesseFilme));
-      repositorioObras.adicionar(new Serie(melhoresSeries[i].id, melhoresSeries[i].name, melhoresSeries[i].overview, melhoresSeries[i].poster_path, melhoresSeries[i].vote_average, atoresDesseSerie, await getNomesDosGenerosDaObra('tv', melhoresSeries[i].id), melhoresSeries[i].first_air_date, numeroEpisodiosETemporadas.number_of_episodes, numeroEpisodiosETemporadas.number_of_seasons));
+      repositorioObras.adicionar(new Filme(melhoresFilmes[i].id, melhoresFilmes[i].title, melhoresFilmes[i].overview, melhoresFilmes[i].poster_path, melhoresFilmes[i].vote_average, equipeDesseFilme, await getNomesDosGenerosDaObra('movie', melhoresFilmes[i].id), melhoresFilmes[i].release_date));
+      repositorioObras.adicionar(new Serie(melhoresSeries[i].id, melhoresSeries[i].name, melhoresSeries[i].overview, melhoresSeries[i].poster_path, melhoresSeries[i].vote_average, equipeDessaSerie, await getNomesDosGenerosDaObra('tv', melhoresSeries[i].id), melhoresSeries[i].first_air_date, numeroEpisodiosETemporadas.number_of_episodes, numeroEpisodiosETemporadas.number_of_seasons));
     }
-    console.log(repositorioObras.listarSeries().map(serie => serie.genres));
   } catch (error) {
     console.error(error);
   }

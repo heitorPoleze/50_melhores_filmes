@@ -1,6 +1,6 @@
-import { Equipe } from "./Equipe.ts";
+import { Pessoa } from "./Pessoa.ts";
 
-export class Ator extends Equipe {
+export class Ator extends Pessoa {
   private _character: string;
 
   constructor(name: string, character: string) {
