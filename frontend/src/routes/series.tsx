@@ -3,7 +3,7 @@ import Header from "../components/Header/Header.tsx";
 //import Funcionalidades from "../components/Funcionalidades/Funcionalidades.tsx";
 import CardContainer from "../components/CardContainer/Cardcontainer.tsx";
 import { useState, useEffect } from "react";
-import { buscarPorPersonagem, getObras } from "../services.tsx";
+import { getObras } from "../services.tsx";
 import Funcionalidades from "../components/Funcionalidades/Funcionalidades.tsx";
 function Series(){
     const [series, setSeries] = useState<any[]>([]);
@@ -23,7 +23,6 @@ function Series(){
         <Header/>
         <main>
         <Funcionalidades
-        buscarPorPersonagem={buscarPorPersonagem}
         setResultados={setSeries}
         nomePagina="Séries"
         />

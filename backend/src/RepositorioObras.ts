@@ -18,10 +18,7 @@ export class RepositorioObras {
             return obra instanceof Filme
         }) 
     }
-    buscarPorGenero(inpGenero: string | string[]): Obra[] {
-        if(!Array.isArray(inpGenero)){
-        return this.obras.filter(obra => obra.genres.includes(inpGenero));
-        }
+    buscarPorGenero(inpGenero: string[]): Obra[] {
         return this.obras.filter(obra => inpGenero.every(genero => obra.genres.includes(genero)));
     }
 

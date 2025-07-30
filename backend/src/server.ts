@@ -13,6 +13,59 @@ app.use(cors());
     await extrairDados();
     console.log("Api consumida.");
 
+    app.get('/filmes/buscar-por-diretor', (req, res) => {
+      const nomeDiretor = String(req.query.diretor || '');
+      const filmes = repositorioObras.buscarPorNomeDiretor(nomeDiretor);
+      const json = filmes.map((filme: Filme) => filme.toJson());
+      res.json(json);
+    });
+
+    app.get('/filmes/buscar-por-ator', (req, res) => {
+      const nomeAtor = String(req.query.ator || '');
+      const filmes = repositorioObras.buscarPorNomeAtor(nomeAtor).filter(obra => obra instanceof Filme);
+      const json = filmes.map((obra: Filme) => obra.toJson());
+      res.json(json);
+    })
+
+    app.get('/series/buscar-por-ator', (req, res) => {
+      const nomeAtor = String(req.query.ator || '');
+      const series = repositorioObras.buscarPorNomeAtor(nomeAtor).filter(obra => obra instanceof Serie);
+      const json = series.map((obra: Serie) => obra.toJson());
+      res.json(json);
+    });
+
+    app.get('/filmes/buscar-por-genero', (req, res) => {
+      const generos = req.query.generos;
+      const listaGeneros = Array.isArray(generos)
+  ? generos as string[] : [generos as string];
+      const filmes = repositorioObras.buscarPorGenero(listaGeneros).filter(obra => obra instanceof Filme);
+      const json = filmes.map((obra: Filme) => obra.toJson());
+      res.json(json);
+    });
+
+    app.get('/series/buscar-por-genero', (req, res) => {
+      const generos = req.query.generos;
+      const listaGeneros = Array.isArray(generos)
+  ? generos as string[] : [generos as string];
+      const series = repositorioObras.buscarPorGenero(listaGeneros).filter(obra => obra instanceof Serie);
+      const json = series.map((obra: Serie) => obra.toJson());
+      res.json(json);
+    });
+
+    app.get('/filmes/buscar-por-titulo', (req, res) => {
+      const titulo = String(req.query.titulo || '');
+      const filmes = repositorioObras.buscarPorTitulo(titulo).filter(obra => obra instanceof Filme);
+      const json = filmes.map((obra: Filme) => obra.toJson());
+      res.json(json);
+    });
+
+    app.get('/series/buscar-por-titulo', (req, res) => {
+      const titulo = String(req.query.titulo || '');
+      const series = repositorioObras.buscarPorTitulo(titulo).filter(obra => obra instanceof Serie);
+      const json = series.map((obra: Serie) => obra.toJson());
+      res.json(json);
+    })
+
     app.get('/filmes/buscar-por-personagem', (req, res) => {
       const nomePersonagem = String(req.query.character || '');
       const resultados = repositorioObras.buscarPorNomePersonagem(nomePersonagem).filter(obra => obra instanceof Filme);

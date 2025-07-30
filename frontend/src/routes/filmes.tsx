@@ -3,7 +3,7 @@ import Funcionalidades from "../components/Funcionalidades/Funcionalidades.tsx";
 import Footer from "../components/Footer/Footer.tsx";
 import CardContainer from "../components/CardContainer/Cardcontainer.tsx";
 import { useState, useEffect } from "react";
-import {buscarPorPersonagem, getObras } from "../services.tsx";
+import { getObras } from "../services.tsx";
 function Filmes() {
   const [filmes, setFilmes] = useState<any[]>([]);
   useEffect(() => {
@@ -23,7 +23,6 @@ function Filmes() {
       <Header />
       <main>
         <Funcionalidades 
-        buscarPorPersonagem={buscarPorPersonagem}
         setResultados={setFilmes}
         nomePagina="Filmes"  />
         <CardContainer obras={filmes} type="filmes" />
