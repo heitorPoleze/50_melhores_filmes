@@ -50,3 +50,8 @@ Thumbs.db
 # OUTROS
 # ----------------------
 *.local
+
+# ----------------------
+# ARQUIVOS GERADOS PELO TYPESCRIPT
+# ----------------------
+tsconfig.tsbuildinfo
