@@ -15,4 +15,5 @@ export class Ator extends Pessoa {
   toJson(): object {
     return { ...super.toJson(), character: this.character };
   }
+  
 }

@@ -101,7 +101,6 @@ export async function extrairDados() {
 
       const atoresDesseSerie = elencoSeries.atores.map((ator: any) => new Ator(ator.name, ator.character));
       const participacaoAtorSerie = atoresDesseSerie.map((ator: Ator) => new Participacao(ator));
-      console.log(participacaoAtorSerie);
 
       const numeroEpisodiosETemporadas = await getNumeroDeEpisodiosETemporadas(melhoresSeries[i].id);
 

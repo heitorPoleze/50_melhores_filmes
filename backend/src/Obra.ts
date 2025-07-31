@@ -1,8 +1,9 @@
 import { Ator } from "./Ator.ts";
+import { IPesquisavel } from "./IPesquisavel.ts";
 import { Participacao } from "./Participacao.ts";
 import { Pessoa } from "./Pessoa.ts";
 
-export class Obra {
+export abstract class Obra implements IPesquisavel {
     private _id: number;
     private _name: string;
     private _overview: string;
@@ -74,4 +75,9 @@ export class Obra {
             release_date: this.release_date
         }
     }
+
+    pesquisarPorCriterio(criterio: string): boolean {
+        return this.name.toLowerCase().includes(criterio.toLowerCase());
+    }
+
 }

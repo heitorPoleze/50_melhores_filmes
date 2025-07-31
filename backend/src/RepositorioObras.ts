@@ -23,11 +23,11 @@ export class RepositorioObras {
     }
 
     buscarPorTitulo(inpTitulo: string): Obra[] {
-        return this.obras.filter(obra => obra.name.toLowerCase().includes(inpTitulo.toLowerCase()));
+        return this.obras.filter(obra => obra.pesquisarPorCriterio(inpTitulo));
     }
 
     buscarPorNomeAtor(inpNome: string): Obra[] {
-        return this.obras.filter(obra => obra.atores.some(ator => ator.name.toLowerCase().includes(inpNome.toLowerCase())))}
+        return this.obras.filter(obra => obra.atores.some(ator => ator.pesquisarPorCriterio(inpNome)));}
 
     buscarPorNomePersonagem(inpNome: string): Obra[] {
     return this.obras.filter(obra =>obra.atores.some(ator => ator.character.toLowerCase().includes(inpNome.toLowerCase())));
@@ -35,6 +35,6 @@ export class RepositorioObras {
 
     buscarPorNomeDiretor(inpNome: string): Filme[] {
         const filmes = this.obras.filter(obra => obra instanceof Filme) as Filme[];
-        return filmes.filter(filme => filme.diretor.some(diretor => diretor.name.toLowerCase().includes(inpNome.toLowerCase())));
+        return filmes.filter(filme => filme.diretor.some(diretor => diretor.pesquisarPorCriterio(inpNome)));
     }
 }
