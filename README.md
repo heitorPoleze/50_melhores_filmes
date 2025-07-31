@@ -1,5 +1,7 @@
 # 50_melhores_filmes
-A partir da API do TMDB, busco os 50 "top rated" filmes, capturo os dados e adapto-os para POO. 
+https://50-melhores-filmes-5lzt.vercel.app
+
+A partir da API do TMDB, busco os 50 "top rated" filmes e séries, capturo os dados e adapto-os para POO. 
 
 Para rodar a aplicação:
 npm install (se não tiver os node modules);
